@@ -1,0 +1,227 @@
+2024-03-02 11:01:53.184 [info] 
+
+
+
+
+2024-03-02 11:01:53.208 [info] Extension host agent started.
+2024-03-02 11:01:54.630 [info] [127.0.0.1][a3bbef2e][ManagementConnection] New connection established.
+2024-03-02 11:01:57.414 [info] [127.0.0.1][d17043d0][ExtensionHostConnection] New connection established.
+2024-03-02 11:01:57.547 [info] [127.0.0.1][d17043d0][ExtensionHostConnection] <132> Launched Extension Host Process.
+2024-03-02 11:10:02.254 [info] [127.0.0.1][d17043d0][ExtensionHostConnection] The client has reconnected.
+2024-03-02 11:10:06.736 [info] [127.0.0.1][a3bbef2e][ManagementConnection] The client has reconnected.
+2024-03-02 11:25:51.280 [info] [127.0.0.1][4c016895][ManagementConnection] New connection established.
+2024-03-02 11:25:52.486 [info] [127.0.0.1][c3f0f48b][ExtensionHostConnection] New connection established.
+2024-03-02 11:25:52.509 [info] [127.0.0.1][c3f0f48b][ExtensionHostConnection] <3500> Launched Extension Host Process.
+2024-03-02 11:26:28.659 [warning] RequestStore#acceptReply was called without receiving a matching request 34
+2024-03-02 11:26:28.661 [warning] RequestStore#acceptReply was called without receiving a matching request 35
+2024-03-02 11:26:28.661 [warning] RequestStore#acceptReply was called without receiving a matching request 36
+2024-03-02 11:26:28.662 [warning] RequestStore#acceptReply was called without receiving a matching request 37
+2024-03-02 11:26:28.662 [warning] RequestStore#acceptReply was called without receiving a matching request 38
+2024-03-02 11:26:28.662 [warning] RequestStore#acceptReply was called without receiving a matching request 39
+2024-03-02 11:26:28.662 [warning] RequestStore#acceptReply was called without receiving a matching request 40
+2024-03-02 11:26:28.662 [warning] RequestStore#acceptReply was called without receiving a matching request 41
+2024-03-02 11:26:28.663 [warning] RequestStore#acceptReply was called without receiving a matching request 42
+2024-03-02 11:26:28.663 [warning] RequestStore#acceptReply was called without receiving a matching request 43
+2024-03-02 11:26:28.663 [warning] RequestStore#acceptReply was called without receiving a matching request 44
+2024-03-02 11:26:28.663 [warning] RequestStore#acceptReply was called without receiving a matching request 45
+2024-03-02 11:26:28.663 [warning] RequestStore#acceptReply was called without receiving a matching request 46
+2024-03-02 11:26:28.664 [warning] RequestStore#acceptReply was called without receiving a matching request 47
+2024-03-02 11:26:28.664 [warning] RequestStore#acceptReply was called without receiving a matching request 48
+2024-03-02 11:26:28.664 [warning] RequestStore#acceptReply was called without receiving a matching request 49
+2024-03-02 11:26:28.664 [warning] RequestStore#acceptReply was called without receiving a matching request 50
+2024-03-02 11:26:28.664 [warning] RequestStore#acceptReply was called without receiving a matching request 51
+2024-03-02 11:26:28.664 [warning] RequestStore#acceptReply was called without receiving a matching request 52
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 53
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 54
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 55
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 56
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 57
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 58
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 59
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 60
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 61
+2024-03-02 11:26:28.665 [warning] RequestStore#acceptReply was called without receiving a matching request 62
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 63
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 64
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 65
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 66
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 67
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 68
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 69
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 70
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 71
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 72
+2024-03-02 11:26:28.666 [warning] RequestStore#acceptReply was called without receiving a matching request 73
+2024-03-02 11:26:28.667 [warning] RequestStore#acceptReply was called without receiving a matching request 74
+2024-03-02 11:26:28.667 [warning] RequestStore#acceptReply was called without receiving a matching request 75
+2024-03-02 11:26:28.667 [warning] RequestStore#acceptReply was called without receiving a matching request 76
+2024-03-02 11:26:28.667 [warning] RequestStore#acceptReply was called without receiving a matching request 77
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 78
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 79
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 80
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 81
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 82
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 83
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 84
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 85
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 86
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 87
+2024-03-02 11:28:28.637 [warning] RequestStore#acceptReply was called without receiving a matching request 88
+2024-03-02 11:28:29.644 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.647 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.648 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.648 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.648 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.651 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.651 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.652 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.652 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.652 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:28:29.652 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-02 11:31:17.506 [info] [127.0.0.1][4c016895][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-02 11:31:17.674 [info] [127.0.0.1][c3f0f48b][ExtensionHostConnection] <3500> Extension Host Process exited with code: 0, signal: null.
+2024-03-02 11:31:43.382 [info] [127.0.0.1][d17043d0][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+2024-03-02 11:31:43.461 [info] [127.0.0.1][a3bbef2e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

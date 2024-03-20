@@ -1,0 +1,31 @@
+'Log files:
+/home/coder/.npm/_logs/2024-01-26T09_10_51_870Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: undefined@undefined
+Found: react@18.2.0
+node_modules/react
+  react@"^18.2.0" from the root project
+  react@"^18.0.0" from storewise-invoice@0.0.0
+  storewise-invoice
+    storewise-create_invoice@0.0.0
+    node_modules/storewise-create_invoice
+  react@"^18.0.0" from storewise-sku@0.0.0
+  storewise-sku
+    storewise-sku@0.0.0
+    node_modules/storewise-sku
+      workspace storewise-sku from the root project
+
+Could not resolve dependency:
+peer react@"^17.0.0 || ^16.3.0 || ^15.5.4" from react-json-view@1.21.3
+node_modules/react-json-view
+  react-json-view@"^1.21.3" from the root project
+  react-json-view@"^1.21.3" from storewise-invoice@0.0.0
+  storewise-invoice
+    storewise-create_invoice@0.0.0
+    node_modules/storewise-create_invoice
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

@@ -1,0 +1,36 @@
+2024-03-20 05:50:20.898 [info] Extension host with pid 1994 started
+2024-03-20 05:50:20.898 [error] Error: EEXIST: file already exists, open '/home/coder/.local/share/code-server/User/workspaceStorage/-44ca1d8e/vscode.lock'
+2024-03-20 05:50:20.902 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/-44ca1d8e/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-03-20 05:50:20.949 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/-44ca1d8e/vscode.lock': The lock does not look stale, elapsed: 50 ms, giving up.
+2024-03-20 05:50:20.960 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/-44ca1d8e-1/vscode.lock': Lock acquired.
+2024-03-20 05:50:21.081 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-20 05:50:21.083 [info] ExtensionService#_doActivateExtension EdgardMessias.clipboard-manager, startup: true, activationEvent: '*'
+2024-03-20 05:50:21.083 [info] ExtensionService#_doActivateExtension vsls-contrib.codetour, startup: true, activationEvent: '*'
+2024-03-20 05:50:21.232 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-03-20 05:50:21.327 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-03-20 05:50:21.472 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-20 05:50:21.473 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-20 05:50:21.699 [info] Extension host terminating: received terminate message from renderer
+2024-03-20 05:50:21.702 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/-44ca1d8e-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-20 05:50:21.715 [error] Canceled: Canceled
+	at Object.I [as $6] (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:150:7643
+	at Array.forEach (<anonymous>)
+	at l.dispose (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:150:7581)
+	at n.terminate (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:154:8791)
+	at o.terminate (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at t (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:171:9809)
+	at g.value (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:171:7855)
+	at i.y (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:80:1918)
+	at i.fire (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:80:2135)
+	at s.fire (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:92:14057)
+	at d.z (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:92:17102)
+	at g.value (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:92:15554)
+	at i.y (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:80:1918)
+	at i.fire (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:80:2135)
+	at g.acceptChunk (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:92:11831)
+	at g.value (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:92:11118)
+	at i.y (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:80:1918)
+	at i.fire (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:80:2135)
+	at i.z (/usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:168:19496) setContext undefined
+2024-03-20 05:50:21.716 [info] Extension host with pid 1994 exiting with code 0

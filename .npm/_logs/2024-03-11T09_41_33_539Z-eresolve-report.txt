@@ -1,0 +1,18 @@
+'Log files:
+/home/coder/.npm/_logs/2024-03-11T09_41_33_539Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: undefined@undefined
+Found: eslint@8.57.0
+node_modules/eslint
+  dev eslint@"^8.27.0" from the root project
+
+Could not resolve dependency:
+peer eslint@"4.x" from lint-diff@1.2.1
+node_modules/lint-diff
+  dev lint-diff@"^1.2.1" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

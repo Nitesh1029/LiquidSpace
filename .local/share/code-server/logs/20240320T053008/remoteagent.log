@@ -1,0 +1,27 @@
+2024-03-20 05:30:08.527 [info] 
+
+
+
+
+2024-03-20 05:30:08.551 [info] Extension host agent started.
+2024-03-20 05:30:12.094 [info] [127.0.0.1][35caed94][ManagementConnection] New connection established.
+2024-03-20 05:30:15.138 [info] [127.0.0.1][403f21b4][ExtensionHostConnection] New connection established.
+2024-03-20 05:30:15.324 [info] [127.0.0.1][403f21b4][ExtensionHostConnection] <132> Launched Extension Host Process.
+2024-03-20 05:50:16.343 [info] [127.0.0.1][adc0d627][ManagementConnection] New connection established.
+2024-03-20 05:50:19.472 [info] [127.0.0.1][9787e1f3][ExtensionHostConnection] New connection established.
+2024-03-20 05:50:19.553 [info] [127.0.0.1][9787e1f3][ExtensionHostConnection] <1994> Launched Extension Host Process.
+2024-03-20 05:50:20.665 [warning] RequestStore#acceptReply was called without receiving a matching request 12
+2024-03-20 05:50:20.665 [warning] RequestStore#acceptReply was called without receiving a matching request 13
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 14
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 15
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 16
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 19
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 20
+2024-03-20 05:50:20.666 [warning] RequestStore#acceptReply was called without receiving a matching request 21
+2024-03-20 05:50:20.667 [warning] RequestStore#acceptReply was called without receiving a matching request 22
+2024-03-20 05:50:21.808 [info] [127.0.0.1][9787e1f3][ExtensionHostConnection] <1994> Extension Host Process exited with code: 0, signal: null.
+2024-03-20 05:50:22.098 [info] [127.0.0.1][adc0d627][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-20 06:13:29.741 [info] [127.0.0.1][35caed94][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-20 06:13:29.887 [info] [127.0.0.1][403f21b4][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.

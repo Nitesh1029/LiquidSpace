@@ -1,0 +1,28 @@
+2024-03-06 06:51:01.006 [info] 
+
+
+
+
+2024-03-06 06:51:01.027 [info] Extension host agent started.
+2024-03-06 06:51:05.167 [info] [127.0.0.1][723ca183][ManagementConnection] New connection established.
+2024-03-06 06:51:07.906 [info] [127.0.0.1][08431428][ExtensionHostConnection] New connection established.
+2024-03-06 06:51:08.087 [info] [127.0.0.1][08431428][ExtensionHostConnection] <133> Launched Extension Host Process.
+2024-03-06 13:40:46.682 [info] [127.0.0.1][08431428][ExtensionHostConnection] The client has reconnected.
+2024-03-06 13:40:47.441 [info] [127.0.0.1][723ca183][ManagementConnection] The client has reconnected.
+2024-03-06 14:00:33.778 [info] [127.0.0.1][723ca183][ManagementConnection] The client has reconnected.
+2024-03-06 14:00:34.777 [info] [127.0.0.1][08431428][ExtensionHostConnection] The client has reconnected.
+2024-03-06 14:01:01.594 [info] [127.0.0.1][723ca183][ManagementConnection] The client has reconnected.
+2024-03-06 14:01:09.555 [info] [127.0.0.1][08431428][ExtensionHostConnection] The client has reconnected.
+2024-03-06 14:04:38.236 [info] [127.0.0.1][723ca183][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-06 14:04:38.436 [info] [127.0.0.1][08431428][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+2024-03-06 14:06:10.180 [info] [127.0.0.1][6f032171][ManagementConnection] New connection established.
+2024-03-06 14:06:12.633 [info] [127.0.0.1][bef4f520][ExtensionHostConnection] New connection established.
+2024-03-06 14:06:12.654 [info] [127.0.0.1][bef4f520][ExtensionHostConnection] <45800> Launched Extension Host Process.
+2024-03-06 16:08:01.977 [info] [127.0.0.1][e34d9d73][ManagementConnection] New connection established.
+2024-03-06 16:08:04.213 [info] [127.0.0.1][8d0a1221][ExtensionHostConnection] New connection established.
+2024-03-06 16:08:04.261 [info] [127.0.0.1][8d0a1221][ExtensionHostConnection] <56669> Launched Extension Host Process.
+2024-03-06 16:13:02.372 [info] [127.0.0.1][bef4f520][ExtensionHostConnection] <45800> Extension Host Process exited with code: 0, signal: null.
+2024-03-06 17:10:59.358 [info] [127.0.0.1][e34d9d73][ManagementConnection] The client has reconnected.
+2024-03-06 17:11:13.569 [info] [127.0.0.1][8d0a1221][ExtensionHostConnection] The client has reconnected.
+2024-03-06 17:33:11.584 [info] [127.0.0.1][e34d9d73][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-06 17:33:11.733 [info] [127.0.0.1][8d0a1221][ExtensionHostConnection] <56669> Extension Host Process exited with code: 0, signal: null.

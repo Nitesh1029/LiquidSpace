@@ -1,0 +1,29 @@
+2024-03-09 06:33:18.841 [info] 
+
+
+
+
+2024-03-09 06:33:18.867 [info] Extension host agent started.
+2024-03-09 06:33:21.492 [info] [127.0.0.1][fee6f37e][ManagementConnection] New connection established.
+2024-03-09 06:33:23.770 [info] [127.0.0.1][76dd69c1][ExtensionHostConnection] New connection established.
+2024-03-09 06:33:23.910 [info] [127.0.0.1][76dd69c1][ExtensionHostConnection] <131> Launched Extension Host Process.
+2024-03-09 06:41:54.317 [info] [127.0.0.1][fee6f37e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-09 06:41:54.461 [info] [127.0.0.1][76dd69c1][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+2024-03-09 06:42:41.693 [info] [127.0.0.1][0ec5902e][ManagementConnection] New connection established.
+2024-03-09 06:42:45.755 [info] [127.0.0.1][e7fa4692][ExtensionHostConnection] New connection established.
+2024-03-09 06:42:45.784 [info] [127.0.0.1][e7fa4692][ExtensionHostConnection] <1493> Launched Extension Host Process.
+2024-03-09 07:03:59.002 [info] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+2024-03-09 07:04:00.049 [info] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+2024-03-09 07:18:46.845 [info] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+2024-03-09 07:18:47.416 [info] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+2024-03-09 07:18:51.205 [warning] No ptyHost heartbeat after 6 seconds
+2024-03-09 07:55:40.306 [info] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+2024-03-09 07:55:43.024 [info] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+2024-03-09 07:55:45.196 [warning] No ptyHost heartbeat after 6 seconds
+2024-03-09 10:20:51.709 [info] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+2024-03-09 10:20:52.876 [info] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+2024-03-09 10:20:55.868 [warning] No ptyHost heartbeat after 6 seconds
+2024-03-09 10:21:06.422 [info] [127.0.0.1][e7fa4692][ExtensionHostConnection] <1493> Extension Host Process exited with code: 0, signal: null.
+2024-03-09 10:21:12.027 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:180:6104)
+    at process.emit (node:events:525:35)

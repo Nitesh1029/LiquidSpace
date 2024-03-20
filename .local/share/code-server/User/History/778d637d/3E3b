@@ -1,0 +1,23 @@
+git config --global user.email "niteshkuma145870@gmail.com"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feat/pincodes
+# Your branch is up to date with 'origin/feat/pincodes'.
+#
+# Changes to be committed:
+#	new file:   storewise-skemengine/app/(partner-interest)/distributor/page.tsx
+#
+# Changes not staged for commit:
+#	modified:   package.json
+#	modified:   storewise-skemengine/app/(partner-interest)/distributor/page.tsx
+#	modified:   storewise-skemengine/package.json
+#	modified:   yarn.lock
+#
+# Untracked files:
+#	storewise-skemengine/components/ui/form.tsx
+#	storewise-skemengine/components/ui/toast.tsx
+#	storewise-skemengine/components/ui/toaster.tsx
+#	storewise-skemengine/components/ui/use-toast.ts
+#	storewise-skemengine/git
+#

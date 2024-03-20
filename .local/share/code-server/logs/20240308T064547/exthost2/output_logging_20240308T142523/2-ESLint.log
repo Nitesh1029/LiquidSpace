@@ -1,0 +1,7 @@
+[Info  - 2:25:30 PM] ESLint server is starting.
+[Info  - 2:25:31 PM] ESLint server running in node v18.15.0
+[Info  - 2:25:31 PM] ESLint server is running.
+[Info  - 2:25:33 PM] ESLint library loaded from: /home/coder/storewise-webapps/.yarn/sdks/eslint/lib/api.js
+The prop value with an expression type of JSXEmptyExpression could not be resolved. Please file an issue ( https://github.com/jsx-eslint/jsx-ast-utils/issues/new ) to get this fixed immediately.
+The prop value with an expression type of JSXEmptyExpression could not be resolved. Please file an issue ( https://github.com/jsx-eslint/jsx-ast-utils/issues/new ) to get this fixed immediately.
+[Info  - 3:56:22 PM] ESLint server stopped.

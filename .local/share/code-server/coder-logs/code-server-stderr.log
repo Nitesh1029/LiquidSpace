@@ -1,0 +1,1550 @@
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[01:58:43] [127.0.0.1][aaeff272][ExtensionHostConnection] Unknown reconnection token (seen before).
+[04:29:02] [127.0.0.1][f8428a84][ExtensionHostConnection] Unknown reconnection token (seen before).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/lib/code-server/lib/vscode/out/bootstrap.js:1:471)
+    at process.emit (node:events:525:35)
+[04:29:17] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:180:6104)
+    at process.emit (node:events:525:35)
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 23
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 24
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 25
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 26
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 27
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 28
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 29
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 30
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 31
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 32
+[04:29:17] RequestStore#acceptReply was called without receiving a matching request 33
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 34
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 35
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 36
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 37
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 38
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 39
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 40
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 41
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 42
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 43
+[04:29:20] RequestStore#acceptReply was called without receiving a matching request 44
+[04:29:20] [127.0.0.1][aaeff272][ExtensionHostConnection] Unknown reconnection token (seen before).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 45
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 46
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 47
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 48
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 49
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 50
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 51
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 52
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 53
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 54
+[04:29:59] RequestStore#acceptReply was called without receiving a matching request 55
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/lib/code-server/lib/vscode/out/bootstrap.js:1:471)
+    at process.emit (node:events:525:35)
+[04:30:28] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:180:6104)
+    at process.emit (node:events:525:35)
+[04:34:19] [127.0.0.1][e36de003][ManagementConnection] Unknown reconnection token (never seen).
+[04:34:33] [127.0.0.1][a7d75063][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 56
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 57
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 58
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 59
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 60
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 61
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 62
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 63
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 64
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 65
+[06:44:19] RequestStore#acceptReply was called without receiving a matching request 66
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/buffer.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/browser/browser.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/lifecycle.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/event.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/marshalling.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/network.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/path.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/resources.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/browser/window.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/strings.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/uri.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/platform/product/common/product.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/platform/window/common/window.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/platform/tunnel/common/tunnel.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 34
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 35
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 36
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 37
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 38
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 39
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 40
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 41
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 42
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 43
+[12:23:25] RequestStore#acceptReply was called without receiving a matching request 44
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 133
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 134
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 135
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 136
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 137
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 138
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 139
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 140
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 141
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 142
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 143
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 144
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 145
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 146
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 147
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 148
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 149
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 150
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 151
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 152
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 153
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 154
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 155
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 156
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 157
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 158
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 159
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 160
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 161
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 162
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 163
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 164
+[13:16:53] RequestStore#acceptReply was called without receiving a matching request 165
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 166
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 167
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 168
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 169
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 170
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 171
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 172
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 173
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 174
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 175
+[13:18:38] RequestStore#acceptReply was called without receiving a matching request 176
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 67
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 68
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 69
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 70
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 71
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 72
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 73
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 74
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 75
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 76
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 77
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 78
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 79
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 80
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 81
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 82
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 83
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 84
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 85
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 86
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 87
+[07:59:38] RequestStore#acceptReply was called without receiving a matching request 88
+[09:52:53] [127.0.0.1][089f36cd][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 45
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 46
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 47
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 48
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 49
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 50
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 51
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 52
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 53
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 54
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 55
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 56
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 57
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 58
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 59
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 60
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 61
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 62
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 63
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 64
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 65
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 66
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 67
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 68
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 69
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 70
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 71
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 72
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 73
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 74
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 75
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 76
+[10:33:38] RequestStore#acceptReply was called without receiving a matching request 77
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 78
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 79
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 80
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 81
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 82
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 83
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 84
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 85
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 86
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 87
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 88
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 89
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 90
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 91
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 92
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 93
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 94
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 95
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 96
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 97
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 98
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 99
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 100
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 101
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 102
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 103
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 104
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 105
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 106
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 107
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 108
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 109
+[10:34:38] RequestStore#acceptReply was called without receiving a matching request 110
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[15:35:29] [127.0.0.1][0adcfdea][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[05:37:33] [127.0.0.1][e3e1da9d][ManagementConnection] Unknown reconnection token (never seen).
+[05:37:33] [127.0.0.1][08d80cf9][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 67
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 68
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 69
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 70
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 71
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 72
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 73
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 74
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 75
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 76
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 77
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 78
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 79
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 80
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 81
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 82
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 83
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 84
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 85
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 86
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 87
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 88
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 89
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 90
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 91
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 92
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 93
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 94
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 95
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 96
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 97
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 98
+[06:08:35] RequestStore#acceptReply was called without receiving a matching request 99
+[12:58:07] [127.0.0.1][1478fd23][ExtensionHostConnection] Unknown reconnection token (seen before).
+[15:05:41] No ptyHost heartbeat after 6 seconds
+[07:01:01] [127.0.0.1][30781f5d][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 23
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 24
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 25
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 26
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 27
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 28
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 29
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 30
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 31
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 32
+[07:04:13] RequestStore#acceptReply was called without receiving a matching request 33
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[08:34:01] [127.0.0.1][1f0a9cf5][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[08:57:54] [127.0.0.1][02f1693b][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[10:02:34] [127.0.0.1][ff00620e][ManagementConnection] Unknown reconnection token (never seen).
+[10:02:34] [127.0.0.1][515714b8][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 34
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 35
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 36
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 37
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 38
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 39
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 40
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 41
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 42
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 43
+[12:57:35] RequestStore#acceptReply was called without receiving a matching request 44
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 45
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 46
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 47
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 48
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 49
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 50
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 51
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 52
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 53
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 54
+[12:57:40] RequestStore#acceptReply was called without receiving a matching request 55
+[14:46:54] [127.0.0.1][ee139aae][ExtensionHostConnection] Unknown reconnection token (never seen).
+[14:46:54] [127.0.0.1][ad635599][ManagementConnection] Unknown reconnection token (never seen).
+[15:24:00] [127.0.0.1][e0b39cb3][ExtensionHostConnection] Unknown reconnection token (seen before).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[16:18:55] [127.0.0.1][ff1c7c3d][ManagementConnection] Unknown reconnection token (never seen).
+[16:18:56] [127.0.0.1][7eca0cbb][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[06:55:04] RequestStore#acceptReply was called without receiving a matching request 34
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 35
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 36
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 37
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 38
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 39
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 40
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 41
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 42
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 43
+[06:55:05] RequestStore#acceptReply was called without receiving a matching request 44
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 45
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 46
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 47
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 48
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 49
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 50
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 51
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 52
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 53
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 54
+[06:55:30] RequestStore#acceptReply was called without receiving a matching request 55
+[10:19:42] [127.0.0.1][b562a6a0][ExtensionHostConnection] Unknown reconnection token (never seen).
+[10:20:05] [127.0.0.1][1603dad5][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[11:23:18] [127.0.0.1][8292ece3][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[17:07:35] [127.0.0.1][4cd4228d][ManagementConnection] Unknown reconnection token (never seen).
+[17:07:35] [127.0.0.1][55753d17][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 45
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 46
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 47
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 48
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 49
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 50
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 51
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 52
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 53
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 54
+[17:14:28] RequestStore#acceptReply was called without receiving a matching request 55
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 56
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 57
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 58
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 59
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 60
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 61
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 62
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 63
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 64
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 65
+[17:15:50] RequestStore#acceptReply was called without receiving a matching request 66
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[09:34:08] [127.0.0.1][0118d068][ManagementConnection] Unknown reconnection token (never seen).
+[09:34:08] [127.0.0.1][2c6fe44b][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/browser/window.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/browser/browser.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/marshalling.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/lifecycle.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/event.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/network.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/path.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/buffer.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/strings.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/resources.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/platform/tunnel/common/tunnel.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/base/common/uri.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/platform/product/common/product.js
+File not found: /usr/lib/code-server/lib/vscode/out/vs/platform/window/common/window.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 45
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 46
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 47
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 48
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 49
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 50
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 51
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 52
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 53
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 54
+[09:45:47] RequestStore#acceptReply was called without receiving a matching request 55
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 56
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 57
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 58
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 59
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 60
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 61
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 62
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 63
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 64
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 65
+[09:46:40] RequestStore#acceptReply was called without receiving a matching request 66
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 67
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 68
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 69
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 70
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 71
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 72
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 73
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 74
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 75
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 76
+[09:47:44] RequestStore#acceptReply was called without receiving a matching request 77
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[11:04:47] [127.0.0.1][33c652a1][ExtensionHostConnection] Unknown reconnection token (never seen).
+[11:04:47] [127.0.0.1][00740d3b][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[14:21:06] [127.0.0.1][b78aebe3][ExtensionHostConnection] Unknown reconnection token (never seen).
+[14:21:07] [127.0.0.1][b0bbf766][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 56
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 57
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 58
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 59
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 60
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 61
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 62
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 63
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 64
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 65
+[14:26:56] RequestStore#acceptReply was called without receiving a matching request 66
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 67
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 68
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 69
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 70
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 71
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 72
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 73
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 74
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 75
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 76
+[14:27:00] RequestStore#acceptReply was called without receiving a matching request 77
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 78
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 79
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 80
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 81
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 82
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 83
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 84
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 85
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 86
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 87
+[14:27:17] RequestStore#acceptReply was called without receiving a matching request 88
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[11:33:53] [127.0.0.1][3875d68f][ManagementConnection] Unknown reconnection token (never seen).
+[11:33:53] [127.0.0.1][f15b6b68][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:36:53] No ptyHost heartbeat after 6 seconds
+[12:38:18] No ptyHost heartbeat after 6 seconds
+[12:42:01] No ptyHost heartbeat after 6 seconds
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 23
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 24
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 25
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 26
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 27
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 28
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 29
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 30
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 31
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 32
+[13:16:09] RequestStore#acceptReply was called without receiving a matching request 33
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[12:50:07] [127.0.0.1][f938bd3e][ExtensionHostConnection] Unknown reconnection token (never seen).
+[12:50:07] [127.0.0.1][d49783e5][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 34
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 35
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 36
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 37
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 38
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 39
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 40
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 41
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 42
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 43
+[12:51:58] RequestStore#acceptReply was called without receiving a matching request 44
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 45
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 46
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 47
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 48
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 49
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 50
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 51
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 52
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 53
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 54
+[12:52:01] RequestStore#acceptReply was called without receiving a matching request 55
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 56
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 57
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 58
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 59
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 60
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 61
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 62
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 63
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 64
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 65
+[12:54:24] RequestStore#acceptReply was called without receiving a matching request 66
+[12:56:25] [127.0.0.1][e67ffba9][ExtensionHostConnection] Unknown reconnection token (never seen).
+[12:56:26] [127.0.0.1][ebea4160][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 23
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 24
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 25
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 26
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 27
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 28
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 29
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 30
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 31
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 32
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 33
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 34
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 35
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 36
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 37
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 38
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 39
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 40
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 41
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 42
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 43
+[12:56:36] RequestStore#acceptReply was called without receiving a matching request 44
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 45
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 46
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 47
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 48
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 49
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 50
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 51
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 52
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 53
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 54
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 55
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 56
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 57
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 58
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 59
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 60
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 61
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 62
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 63
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 64
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 65
+[12:56:37] RequestStore#acceptReply was called without receiving a matching request 66
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 67
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 68
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 69
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 70
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 71
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 72
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 73
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 74
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 75
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 76
+[12:56:38] RequestStore#acceptReply was called without receiving a matching request 77
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 78
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 79
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 80
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 81
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 82
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 83
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 84
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 85
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 86
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 87
+[12:56:39] RequestStore#acceptReply was called without receiving a matching request 88
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:04:38] [127.0.0.1][49e69113][ExtensionHostConnection] Unknown reconnection token (never seen).
+[12:04:39] [127.0.0.1][cd0e75e0][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[17:34:34] [127.0.0.1][917e56bd][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[11:28:27] [127.0.0.1][ef465ea1][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[08:24:26] [127.0.0.1][a68f423d][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 34
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 35
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 36
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 37
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 38
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 39
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 40
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 41
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 42
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 43
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 44
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 45
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 46
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 47
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 48
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 49
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 50
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 51
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 52
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 53
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 54
+[13:20:23] RequestStore#acceptReply was called without receiving a matching request 55
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 56
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 57
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 58
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 59
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 60
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 61
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 62
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 63
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 64
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 65
+[13:20:25] RequestStore#acceptReply was called without receiving a matching request 66
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 67
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 68
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 69
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 70
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 71
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 72
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 73
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 74
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 75
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 76
+[13:20:53] RequestStore#acceptReply was called without receiving a matching request 77
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 67
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 68
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 69
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 70
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 71
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 72
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 73
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 74
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 75
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 76
+[13:20:54] RequestStore#acceptReply was called without receiving a matching request 77
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 78
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 79
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 80
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 81
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 82
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 83
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 84
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 85
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 86
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 87
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 88
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 78
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 79
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 80
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 81
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 82
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 83
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 84
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 85
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 86
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 87
+[13:21:17] RequestStore#acceptReply was called without receiving a matching request 88
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 89
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 90
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 91
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 92
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 93
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 94
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 95
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 96
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 97
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 98
+[13:40:28] RequestStore#acceptReply was called without receiving a matching request 99
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 100
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 101
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 102
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 103
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 104
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 105
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 106
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 107
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 108
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 109
+[13:40:32] RequestStore#acceptReply was called without receiving a matching request 110
+[14:24:07] [127.0.0.1][551b81ea][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[14:24:47] [127.0.0.1][f3a3c8f2][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[17:03:18] [127.0.0.1][a1ed86b9][ExtensionHostConnection] Unknown reconnection token (seen before).
+[07:17:20] No ptyHost heartbeat after 6 seconds
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[10:06:33] No ptyHost heartbeat after 6 seconds
+[10:31:30] No ptyHost heartbeat after 6 seconds
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[07:57:53] [127.0.0.1][de32784c][ExtensionHostConnection] Unknown reconnection token (never seen).
+[07:57:53] [127.0.0.1][5b2ebe8e][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:58:14] No ptyHost heartbeat after 6 seconds
+[06:31:45] [127.0.0.1][6708deac][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[11:23:38] [127.0.0.1][8097005a][ManagementConnection] Unknown reconnection token (never seen).
+[11:23:39] [127.0.0.1][eeeac428][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[12:46:36] [127.0.0.1][a13413d1][ExtensionHostConnection] Unknown reconnection token (never seen).
+[12:46:36] [127.0.0.1][2ccdf2a9][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[07:37:46] No ptyHost heartbeat after 6 seconds
+[10:05:56] [127.0.0.1][bc6c1c85][ExtensionHostConnection] Unknown reconnection token (never seen).
+[10:05:56] [127.0.0.1][e2932e6a][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[13:22:03] [127.0.0.1][34840a49][ManagementConnection] Unknown reconnection token (never seen).
+[13:22:03] [127.0.0.1][20c36647][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 23
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 24
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 25
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 26
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 27
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 28
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 29
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 30
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 31
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 32
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 33
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 34
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 35
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 36
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 37
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 38
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 39
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 40
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 41
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 42
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 43
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 44
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 45
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 46
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 47
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 48
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 49
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 50
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 51
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 52
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 53
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 54
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 55
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 56
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 57
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 58
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 59
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 60
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 61
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 62
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 63
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 64
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 65
+[12:14:21] RequestStore#acceptReply was called without receiving a matching request 66
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 67
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 68
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 69
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 70
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 71
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 72
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 73
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 74
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 75
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 76
+[12:19:21] RequestStore#acceptReply was called without receiving a matching request 77
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[11:13:18] [127.0.0.1][022d92eb][ExtensionHostConnection] Unknown reconnection token (seen before).
+[12:16:20] [127.0.0.1][ff7b2954][ExtensionHostConnection] Unknown reconnection token (never seen).
+[12:16:20] [127.0.0.1][ea5fd0b9][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[16:19:27] [127.0.0.1][93a8b4b4][ManagementConnection] Unknown reconnection token (never seen).
+[16:19:28] [127.0.0.1][a48f2522][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 34
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 35
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 36
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 37
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 38
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 39
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 40
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 41
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 42
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 43
+[16:19:41] RequestStore#acceptReply was called without receiving a matching request 44
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[16:27:36] [127.0.0.1][fd7e099b][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[16:40:22] [127.0.0.1][f1b35fae][ManagementConnection] Unknown reconnection token (never seen).
+[16:40:22] [127.0.0.1][eebe73b0][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[17:20:06] [127.0.0.1][2ae4a9ef][ManagementConnection] Unknown reconnection token (never seen).
+[17:20:07] [127.0.0.1][4519eaba][ExtensionHostConnection] Unknown reconnection token (never seen).
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 34
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 35
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 36
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 37
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 38
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 39
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 40
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 41
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 42
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 43
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 44
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 45
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 46
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 47
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 48
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 49
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 50
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 51
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 52
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 53
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 54
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 55
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 56
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 57
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 58
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 59
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 60
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 61
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 62
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 63
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 64
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 65
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 66
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 67
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 68
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 69
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 70
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 71
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 72
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 73
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 74
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 75
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 76
+[11:26:28] RequestStore#acceptReply was called without receiving a matching request 77
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 78
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 79
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 80
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 81
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 82
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 83
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 84
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 85
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 86
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 87
+[11:28:28] RequestStore#acceptReply was called without receiving a matching request 88
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.updateTitle (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:27502)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[11:28:29] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:32370)
+    at L.acknowledgeDataEvent (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:28675)
+    at T.<computed> (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:43:22728)
+    at Object.call (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:33:5041)
+    at $.s (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:5153)
+    at $.q (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4662)
+    at a.value (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:31:4064)
+    at i.y (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:1922)
+    at i.fire (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:27:2139)
+    at process.ce (/usr/lib/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:25:25792)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[08:22:59] No ptyHost heartbeat after 6 seconds
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 23
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 24
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 25
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 26
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 27
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 28
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 29
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 30
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 31
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 32
+[10:07:44] RequestStore#acceptReply was called without receiving a matching request 33
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 34
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 35
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 36
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 37
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 38
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 39
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 40
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 41
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 42
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 43
+[10:07:48] RequestStore#acceptReply was called without receiving a matching request 44
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 45
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 46
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 47
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 48
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 49
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 50
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 51
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 52
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 53
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 54
+[10:07:49] RequestStore#acceptReply was called without receiving a matching request 55
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[07:18:51] No ptyHost heartbeat after 6 seconds
+[07:55:45] No ptyHost heartbeat after 6 seconds
+[10:20:55] No ptyHost heartbeat after 6 seconds
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/lib/code-server/lib/vscode/out/bootstrap.js:1:471)
+    at process.emit (node:events:525:35)
+[10:21:12] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/lib/code-server/lib/vscode/out/vs/server/node/server.main.js:180:6104)
+    at process.emit (node:events:525:35)
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[07:41:27] No ptyHost heartbeat after 6 seconds
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 12
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 13
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 14
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 15
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 16
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 17
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 18
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 19
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 20
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 21
+[05:50:20] RequestStore#acceptReply was called without receiving a matching request 22

@@ -1,0 +1,70 @@
+[Info  - 6:53:28 AM] ESLint server is starting.
+[Info  - 6:53:29 AM] ESLint server running in node v18.15.0
+[Info  - 6:53:29 AM] ESLint server is running.
+[Info  - 6:53:31 AM] ESLint library loaded from: /home/coder/storewise-webapps/.yarn/sdks/eslint/lib/api.js
+[Error - 8:49:27 AM] Calculating config file for file:///home/coder/storewise-webapps/storewise-internal/lib/utils.ts) failed.
+Error: Failed to load config "next/core-web-vitals" to extend from.
+Referenced from: /home/coder/storewise-webapps/storewise-internal/.eslintrc.json
+    at configInvalidError (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2639:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3270:23)
+    at ConfigArrayFactory._loadExtends (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3147:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3086:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3031:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2877:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3860:46)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3879:20)
+[Error - 8:54:35 AM] Calculating config file for file:///home/coder/storewise-webapps/storewise-internal/app/layout.tsx) failed.
+Error: Failed to load config "next/core-web-vitals" to extend from.
+Referenced from: /home/coder/storewise-webapps/storewise-internal/.eslintrc.json
+    at configInvalidError (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2639:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3270:23)
+    at ConfigArrayFactory._loadExtends (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3147:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3086:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3031:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2877:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3860:46)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3879:20)
+[Error - 8:54:41 AM] Calculating config file for file:///home/coder/storewise-webapps/storewise-internal/app/page.tsx) failed.
+Error: Failed to load config "next/core-web-vitals" to extend from.
+Referenced from: /home/coder/storewise-webapps/storewise-internal/.eslintrc.json
+    at configInvalidError (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2639:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3270:23)
+    at ConfigArrayFactory._loadExtends (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3147:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3086:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3031:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2877:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3860:46)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3879:20)
+[Error - 9:01:18 AM] Calculating config file for file:///home/coder/storewise-webapps/storewise-internal/tailwind.config.ts) failed.
+Error: Failed to load config "next/core-web-vitals" to extend from.
+Referenced from: /home/coder/storewise-webapps/storewise-internal/.eslintrc.json
+    at configInvalidError (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2639:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3270:23)
+    at ConfigArrayFactory._loadExtends (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3147:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3086:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3031:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2877:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3860:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3781:18)
+[Error - 9:01:30 AM] An unexpected error occurred:
+[Error - 9:01:30 AM] Error: Failed to load config "next/core-web-vitals" to extend from.
+Referenced from: /home/coder/storewise-webapps/storewise-internal/.eslintrc.json
+    at configInvalidError (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2639:9)
+    at ConfigArrayFactory._loadExtendedShareableConfig (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3270:23)
+    at ConfigArrayFactory._loadExtends (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3147:25)
+    at ConfigArrayFactory._normalizeObjectConfigDataBody (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3086:25)
+    at _normalizeObjectConfigDataBody.next (<anonymous>)
+    at ConfigArrayFactory._normalizeObjectConfigData (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3031:20)
+    at _normalizeObjectConfigData.next (<anonymous>)
+    at ConfigArrayFactory.loadInDirectory (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2877:28)
+    at CascadingConfigArrayFactory._loadConfigInAncestors (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3860:46)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/coder/storewise-webapps/.yarn/cache/@eslint-eslintrc-npm-2.1.3-088d1bae55-5c6c387819.zip/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3781:18)
+[Info  - 9:03:43 AM] ESLint server stopped.

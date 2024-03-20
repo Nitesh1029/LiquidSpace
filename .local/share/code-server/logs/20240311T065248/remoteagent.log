@@ -1,0 +1,22 @@
+2024-03-11 06:52:48.736 [info] 
+
+
+
+
+2024-03-11 06:52:48.763 [info] Extension host agent started.
+2024-03-11 06:53:20.200 [info] [127.0.0.1][e8ac5172][ManagementConnection] New connection established.
+2024-03-11 06:53:22.462 [info] [127.0.0.1][0cecbde9][ExtensionHostConnection] New connection established.
+2024-03-11 06:53:22.598 [info] [127.0.0.1][0cecbde9][ExtensionHostConnection] <131> Launched Extension Host Process.
+2024-03-11 08:32:56.231 [info] [127.0.0.1][e8ac5172][ManagementConnection] The client has reconnected.
+2024-03-11 08:32:57.131 [info] [127.0.0.1][0cecbde9][ExtensionHostConnection] The client has reconnected.
+2024-03-11 09:03:43.031 [info] [127.0.0.1][e8ac5172][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-11 09:03:43.285 [info] [127.0.0.1][0cecbde9][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+2024-03-11 09:03:44.915 [info] [127.0.0.1][03baf544][ManagementConnection] New connection established.
+2024-03-11 09:03:47.170 [info] [127.0.0.1][7946853b][ExtensionHostConnection] New connection established.
+2024-03-11 09:03:47.235 [info] [127.0.0.1][7946853b][ExtensionHostConnection] <8900> Launched Extension Host Process.
+2024-03-11 11:09:48.214 [info] [127.0.0.1][096c4572][ManagementConnection] New connection established.
+2024-03-11 11:09:54.461 [info] [127.0.0.1][10aaa5c5][ExtensionHostConnection] New connection established.
+2024-03-11 11:09:54.555 [info] [127.0.0.1][10aaa5c5][ExtensionHostConnection] <15464> Launched Extension Host Process.
+2024-03-11 11:14:48.802 [info] [127.0.0.1][7946853b][ExtensionHostConnection] <8900> Extension Host Process exited with code: 0, signal: null.
+2024-03-11 11:44:54.137 [info] [127.0.0.1][096c4572][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-11 11:44:54.466 [info] [127.0.0.1][10aaa5c5][ExtensionHostConnection] <15464> Extension Host Process exited with code: 0, signal: null.

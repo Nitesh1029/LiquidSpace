@@ -1,0 +1,19 @@
+2024-03-02 11:42:37.899 [info] Extension host with pid 132 started
+2024-03-02 11:42:37.927 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/-44ca1d8e/vscode.lock': Lock acquired.
+2024-03-02 11:42:38.132 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-02 11:42:38.134 [info] ExtensionService#_doActivateExtension EdgardMessias.clipboard-manager, startup: true, activationEvent: '*'
+2024-03-02 11:42:38.135 [info] ExtensionService#_doActivateExtension vsls-contrib.codetour, startup: true, activationEvent: '*'
+2024-03-02 11:42:38.228 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-03-02 11:42:38.479 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-02 11:42:38.480 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-02 11:42:48.139 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 11:42:48.139 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 11:42:48.140 [info] ExtensionService#_doActivateExtension arcanis.vscode-zipfs, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 11:42:48.141 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 11:42:48.141 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 11:42:48.142 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2024-03-02 11:44:06.693 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-03-02 11:44:06.694 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-02 11:45:56.268 [info] Eager extensions activated
+2024-03-02 11:45:57.630 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-03-02 11:56:23.982 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

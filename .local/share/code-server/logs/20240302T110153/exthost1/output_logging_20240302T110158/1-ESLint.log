@@ -1,0 +1,6 @@
+[Info  - 11:02:03 AM] ESLint server is starting.
+[Info  - 11:02:03 AM] ESLint server running in node v18.15.0
+[Info  - 11:02:03 AM] ESLint server is running.
+[Info  - 11:02:04 AM] ESLint library loaded from: /home/coder/storewise-webapps/.yarn/sdks/eslint/lib/api.js
+Pages directory cannot be found at /home/coder/storewise-webapps/pages or /home/coder/storewise-webapps/src/pages. If using a custom path, please configure with the `no-html-link-for-pages` rule in your eslint config file.
+[Info  - 11:31:43 AM] ESLint server stopped.

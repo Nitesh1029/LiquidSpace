@@ -1,0 +1,2412 @@
+[2024-01-19T09:13:55.063Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-19T09:13:55.064Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-19T09:13:55.077Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-19T09:13:55.077Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-19T09:13:55.077Z] info    - Authentication is disabled
+[2024-01-19T09:13:55.077Z] info    - Not serving HTTPS
+[2024-01-19T09:13:55.078Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[2024-01-19T12:45:13.307Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-19T12:45:13.308Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-19T12:45:13.325Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-19T12:45:13.325Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-19T12:45:13.325Z] info    - Authentication is disabled
+[2024-01-19T12:45:13.325Z] info    - Not serving HTTPS
+[2024-01-19T12:45:13.325Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[13:58:35] 
+
+
+
+
+[13:58:35] 
+
+
+
+
+[13:58:35] Extension host agent started.
+[13:58:35] Extension host agent started.
+[13:58:40] [127.0.0.1][8f6a38c3][ManagementConnection] New connection established.
+[13:58:45] [127.0.0.1][eb551f00][ExtensionHostConnection] New connection established.
+[13:58:45] [127.0.0.1][eb551f00][ExtensionHostConnection] <6389> Launched Extension Host Process.
+[13:58:50] [127.0.0.1][ee0b6023][ManagementConnection] New connection established.
+[13:58:53] [127.0.0.1][98f81142][ExtensionHostConnection] New connection established.
+[13:58:53] [127.0.0.1][98f81142][ExtensionHostConnection] <6411> Launched Extension Host Process.
+[2024-01-19T15:16:26.459Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-19T15:16:26.461Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-19T15:16:26.479Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-19T15:16:26.479Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-19T15:16:26.479Z] info    - Authentication is disabled
+[2024-01-19T15:16:26.479Z] info    - Not serving HTTPS
+[2024-01-19T15:16:26.479Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[15:16:41] 
+
+
+
+
+[15:16:42] Extension host agent started.
+[15:16:57] [127.0.0.1][e36de003][ManagementConnection] New connection established.
+[15:17:05] [127.0.0.1][aaeff272][ExtensionHostConnection] New connection established.
+[15:17:05] [127.0.0.1][aaeff272][ExtensionHostConnection] <8084> Launched Extension Host Process.
+[15:17:50] [127.0.0.1][a7d75063][ManagementConnection] New connection established.
+[15:18:08] [127.0.0.1][f8428a84][ExtensionHostConnection] New connection established.
+[15:18:08] [127.0.0.1][f8428a84][ExtensionHostConnection] <8193> Launched Extension Host Process.
+[20:12:33] [127.0.0.1][f8428a84][ExtensionHostConnection] <8193> Extension Host Process exited with code: 0, signal: null.
+[20:12:52] [127.0.0.1][aaeff272][ExtensionHostConnection] <8084> Extension Host Process exited with code: 0, signal: null.
+[04:28:52] [127.0.0.1][e36de003][ManagementConnection] The client has reconnected.
+[04:29:06] [127.0.0.1][a7d75063][ManagementConnection] The client has reconnected.
+[04:29:15] [127.0.0.1][0fcb0523][ManagementConnection] New connection established.
+[04:29:16] [127.0.0.1][78a75681][ManagementConnection] New connection established.
+[04:29:16] [127.0.0.1][ced8e052][ExtensionHostConnection] New connection established.
+[04:29:16] [127.0.0.1][ced8e052][ExtensionHostConnection] <60152> Launched Extension Host Process.
+[04:29:17] [127.0.0.1][0fcb0523][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:29:19] [127.0.0.1][8cd21692][ExtensionHostConnection] New connection established.
+[04:29:19] [127.0.0.1][8cd21692][ExtensionHostConnection] <60178> Launched Extension Host Process.
+[04:29:21] [127.0.0.1][78a75681][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:29:21] [127.0.0.1][8cd21692][ExtensionHostConnection] <60178> Extension Host Process exited with code: 0, signal: null.
+[04:29:24] [127.0.0.1][16bd9c1f][ExtensionHostConnection] New connection established.
+[04:29:24] [127.0.0.1][16bd9c1f][ExtensionHostConnection] <60211> Launched Extension Host Process.
+[04:29:56] [127.0.0.1][15a4a118][ManagementConnection] New connection established.
+[04:29:57] [127.0.0.1][8d281a88][ExtensionHostConnection] New connection established.
+[04:29:57] [127.0.0.1][8d281a88][ExtensionHostConnection] <60306> Launched Extension Host Process.
+[04:29:58] [127.0.0.1][15a4a118][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:29:58] [127.0.0.1][8d281a88][ExtensionHostConnection] <60306> Extension Host Process exited with code: 0, signal: null.
+[2024-01-20T04:30:23.181Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-20T04:30:23.183Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-20T04:30:23.227Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-20T04:30:23.228Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-20T04:30:23.228Z] info    - Authentication is disabled
+[2024-01-20T04:30:23.228Z] info    - Not serving HTTPS
+[2024-01-20T04:30:23.228Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[04:30:25] 
+
+
+
+
+[04:30:25] Extension host agent started.
+[04:30:26] [127.0.0.1][9047c57f][ManagementConnection] New connection established.
+[04:30:28] [127.0.0.1][341c06e3][ExtensionHostConnection] New connection established.
+[04:30:28] [127.0.0.1][341c06e3][ExtensionHostConnection] <139> Launched Extension Host Process.
+[04:30:28] [127.0.0.1][9047c57f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:39:19] [127.0.0.1][341c06e3][ExtensionHostConnection] <139> Extension Host Process exited with code: 0, signal: null.
+[2024-01-22T05:00:16.949Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-22T05:00:16.950Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-22T05:00:16.983Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-22T05:00:16.983Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-22T05:00:16.983Z] info    - Authentication is disabled
+[2024-01-22T05:00:16.983Z] info    - Not serving HTTPS
+[2024-01-22T05:00:16.984Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[05:00:18] 
+
+
+
+
+[05:00:18] Extension host agent started.
+[05:00:22] [127.0.0.1][623d7167][ManagementConnection] New connection established.
+[05:00:24] [127.0.0.1][97bc3902][ExtensionHostConnection] New connection established.
+[05:00:25] [127.0.0.1][97bc3902][ExtensionHostConnection] <143> Launched Extension Host Process.
+[05:34:17] [127.0.0.1][623d7167][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:34:18] [127.0.0.1][97bc3902][ExtensionHostConnection] <143> Extension Host Process exited with code: 0, signal: null.
+[05:34:21] [127.0.0.1][c401254c][ManagementConnection] New connection established.
+[05:34:23] [127.0.0.1][1f335504][ExtensionHostConnection] New connection established.
+[05:34:23] [127.0.0.1][1f335504][ExtensionHostConnection] <3845> Launched Extension Host Process.
+[05:37:20] Getting Manifest... arcanis.vscode-zipfs
+[05:37:20] Getting Manifest... dbaeumer.vscode-eslint
+[05:37:20] Getting Manifest... esbenp.prettier-vscode
+[05:37:23] Installing extension: dbaeumer.vscode-eslint
+[05:37:23] Installing extension: arcanis.vscode-zipfs
+[05:37:23] Installing extension: esbenp.prettier-vscode
+[05:37:27] Extension signature verification is not done: dbaeumer.vscode-eslint
+[05:37:28] Extracted extension to file:///home/coder/.local/share/code-server/extensions/dbaeumer.vscode-eslint-2.4.2-universal: dbaeumer.vscode-eslint
+[05:37:28] Renamed to /home/coder/.local/share/code-server/extensions/dbaeumer.vscode-eslint-2.4.2-universal
+[05:37:28] Extracting extension completed. dbaeumer.vscode-eslint
+[05:37:28] Extension installed successfully: dbaeumer.vscode-eslint
+[05:37:28] Extension signature verification is not done: arcanis.vscode-zipfs
+[05:37:28] Extracted extension to file:///home/coder/.local/share/code-server/extensions/arcanis.vscode-zipfs-2.4.0-rc.5-universal: arcanis.vscode-zipfs
+[05:37:28] Renamed to /home/coder/.local/share/code-server/extensions/arcanis.vscode-zipfs-2.4.0-rc.5-universal
+[05:37:28] Extracting extension completed. arcanis.vscode-zipfs
+[05:37:28] Extension installed successfully: arcanis.vscode-zipfs
+[05:37:28] Extension signature verification is not done: esbenp.prettier-vscode
+[05:37:29] Extracted extension to file:///home/coder/.local/share/code-server/extensions/esbenp.prettier-vscode-10.1.0-universal: esbenp.prettier-vscode
+[05:37:29] Renamed to /home/coder/.local/share/code-server/extensions/esbenp.prettier-vscode-10.1.0-universal
+[05:37:29] Extracting extension completed. esbenp.prettier-vscode
+[05:37:29] Extension installed successfully: esbenp.prettier-vscode
+[05:45:58] [127.0.0.1][c401254c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:45:59] [127.0.0.1][1f335504][ExtensionHostConnection] <3845> Extension Host Process exited with code: 0, signal: null.
+[05:47:00] [127.0.0.1][f243ff6a][ManagementConnection] New connection established.
+[05:47:02] [127.0.0.1][9badf038][ExtensionHostConnection] New connection established.
+[05:47:02] [127.0.0.1][9badf038][ExtensionHostConnection] <5452> Launched Extension Host Process.
+[05:47:04] [127.0.0.1][9badf038][ExtensionHostConnection] <5452> Extension Host Process exited with code: 0, signal: null.
+[05:47:04] [127.0.0.1][f243ff6a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:47:40] Extensions added from another source edgardmessias.clipboard-manager file:///home/coder/.local/share/code-server/extensions/extensions.json
+[05:47:55] Extensions added from another source vsls-contrib.codetour file:///home/coder/.local/share/code-server/extensions/extensions.json
+[05:58:04] [127.0.0.1][0d2cd2a0][ManagementConnection] New connection established.
+[05:58:05] [127.0.0.1][e3500440][ExtensionHostConnection] New connection established.
+[05:58:05] [127.0.0.1][e3500440][ExtensionHostConnection] <5571> Launched Extension Host Process.
+[05:58:07] [127.0.0.1][0d2cd2a0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-01-22T05:58:26.585Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-22T05:58:26.587Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-22T05:58:26.610Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-22T05:58:26.610Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-22T05:58:26.611Z] info    - Authentication is disabled
+[2024-01-22T05:58:26.611Z] info    - Not serving HTTPS
+[2024-01-22T05:58:26.611Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[05:58:29] 
+
+
+
+
+[05:58:29] Extension host agent started.
+[05:58:31] [127.0.0.1][5a550286][ManagementConnection] New connection established.
+[05:58:32] [127.0.0.1][3f681b99][ExtensionHostConnection] New connection established.
+[05:58:32] [127.0.0.1][3f681b99][ExtensionHostConnection] <144> Launched Extension Host Process.
+[05:58:50] [127.0.0.1][5a550286][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:58:50] [127.0.0.1][3f681b99][ExtensionHostConnection] <144> Extension Host Process exited with code: 0, signal: null.
+[06:41:23] [127.0.0.1][215f6688][ManagementConnection] New connection established.
+[06:41:25] [127.0.0.1][ed04106d][ExtensionHostConnection] New connection established.
+[06:41:25] [127.0.0.1][ed04106d][ExtensionHostConnection] <228> Launched Extension Host Process.
+[06:42:01] [127.0.0.1][215f6688][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:42:01] [127.0.0.1][ed04106d][ExtensionHostConnection] <228> Extension Host Process exited with code: 0, signal: null.
+[06:42:06] [127.0.0.1][cc7a4ce8][ManagementConnection] New connection established.
+[06:42:07] [127.0.0.1][43d57fd6][ExtensionHostConnection] New connection established.
+[06:42:07] [127.0.0.1][43d57fd6][ExtensionHostConnection] <341> Launched Extension Host Process.
+[06:43:04] [127.0.0.1][cc7a4ce8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:43:04] [127.0.0.1][43d57fd6][ExtensionHostConnection] <341> Extension Host Process exited with code: 0, signal: null.
+[06:43:08] [127.0.0.1][da1c153e][ManagementConnection] New connection established.
+[06:43:09] [127.0.0.1][aacbf5c6][ExtensionHostConnection] New connection established.
+[06:43:09] [127.0.0.1][aacbf5c6][ExtensionHostConnection] <571> Launched Extension Host Process.
+[06:44:16] [127.0.0.1][49a5aff6][ManagementConnection] New connection established.
+[06:44:17] [127.0.0.1][41220143][ExtensionHostConnection] New connection established.
+[06:44:17] [127.0.0.1][41220143][ExtensionHostConnection] <744> Launched Extension Host Process.
+[06:49:57] [127.0.0.1][49a5aff6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:49:57] [127.0.0.1][41220143][ExtensionHostConnection] <744> Extension Host Process exited with code: 0, signal: null.
+[06:51:11] [127.0.0.1][da1c153e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:51:11] [127.0.0.1][aacbf5c6][ExtensionHostConnection] <571> Extension Host Process exited with code: 0, signal: null.
+[2024-01-23T11:44:15.705Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-23T11:44:15.706Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-23T11:44:15.726Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-23T11:44:15.726Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-23T11:44:15.726Z] info    - Authentication is disabled
+[2024-01-23T11:44:15.726Z] info    - Not serving HTTPS
+[2024-01-23T11:44:15.726Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:45:24] 
+
+
+
+
+[11:45:24] Extension host agent started.
+[11:47:39] [127.0.0.1][c43f4759][ManagementConnection] New connection established.
+[11:47:41] [127.0.0.1][4c40a417][ExtensionHostConnection] New connection established.
+[11:47:41] [127.0.0.1][4c40a417][ExtensionHostConnection] <130> Launched Extension Host Process.
+[11:47:48] Getting Manifest... dbaeumer.vscode-eslint
+[11:47:50] Installing extension: dbaeumer.vscode-eslint
+[11:47:56] Extension signature verification is not done: dbaeumer.vscode-eslint
+[11:47:57] Extracted extension to file:///home/coder/.local/share/code-server/extensions/dbaeumer.vscode-eslint-2.4.4-universal: dbaeumer.vscode-eslint
+[11:47:57] Renamed to /home/coder/.local/share/code-server/extensions/dbaeumer.vscode-eslint-2.4.4-universal
+[11:47:57] Extracting extension completed. dbaeumer.vscode-eslint
+[11:47:57] Extension installed successfully: dbaeumer.vscode-eslint
+[11:47:57] Marked extension as uninstalled dbaeumer.vscode-eslint-2.4.2-universal
+[12:22:28] [127.0.0.1][29aa9742][ManagementConnection] New connection established.
+[12:22:30] [127.0.0.1][2f64796b][ExtensionHostConnection] New connection established.
+[12:22:30] [127.0.0.1][2f64796b][ExtensionHostConnection] <3373> Launched Extension Host Process.
+[12:23:04] [127.0.0.1][29aa9742][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:23:04] [127.0.0.1][2f64796b][ExtensionHostConnection] <3373> Extension Host Process exited with code: 0, signal: null.
+[12:23:11] [127.0.0.1][7f298181][ManagementConnection] New connection established.
+[12:23:12] [127.0.0.1][614e2e27][ExtensionHostConnection] New connection established.
+[12:23:12] [127.0.0.1][614e2e27][ExtensionHostConnection] <3535> Launched Extension Host Process.
+[12:23:30] [127.0.0.1][7f298181][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:23:30] [127.0.0.1][614e2e27][ExtensionHostConnection] <3535> Extension Host Process exited with code: 0, signal: null.
+[12:35:55] Getting Manifest... yandeu.five-server
+[12:35:57] Installing extension: yandeu.five-server
+[12:36:03] Extension signature verification is not done: yandeu.five-server
+[12:36:03] Extracted extension to file:///home/coder/.local/share/code-server/extensions/yandeu.five-server-0.3.1-universal: yandeu.five-server
+[12:36:03] Renamed to /home/coder/.local/share/code-server/extensions/yandeu.five-server-0.3.1-universal
+[12:36:03] Extracting extension completed. yandeu.five-server
+[12:36:04] Extension installed successfully: yandeu.five-server
+[12:39:43] [127.0.0.1][c43f4759][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:39:43] [127.0.0.1][4c40a417][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[12:39:45] [127.0.0.1][cd86c241][ManagementConnection] New connection established.
+[12:39:46] [127.0.0.1][31041e25][ExtensionHostConnection] New connection established.
+[12:39:46] [127.0.0.1][31041e25][ExtensionHostConnection] <5376> Launched Extension Host Process.
+[13:00:58] [127.0.0.1][93ddb150][ManagementConnection] New connection established.
+[13:01:00] [127.0.0.1][da69923d][ExtensionHostConnection] New connection established.
+[13:01:00] [127.0.0.1][da69923d][ExtensionHostConnection] <7478> Launched Extension Host Process.
+[13:02:29] [127.0.0.1][93ddb150][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:02:29] [127.0.0.1][da69923d][ExtensionHostConnection] <7478> Extension Host Process exited with code: 0, signal: null.
+[13:16:28] [127.0.0.1][27dbea06][ManagementConnection] New connection established.
+[13:16:32] [127.0.0.1][7d63641b][ExtensionHostConnection] New connection established.
+[13:16:32] [127.0.0.1][7d63641b][ExtensionHostConnection] <9074> Launched Extension Host Process.
+[13:28:21] [127.0.0.1][cd86c241][ManagementConnection] The client has reconnected.
+[13:28:26] [127.0.0.1][cd86c241][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-01-24T06:39:31.596Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-24T06:39:31.597Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-24T06:39:31.617Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-24T06:39:31.618Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-24T06:39:31.618Z] info    - Authentication is disabled
+[2024-01-24T06:39:31.618Z] info    - Not serving HTTPS
+[2024-01-24T06:39:31.618Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:04:09] 
+
+
+
+
+[08:04:09] Extension host agent started.
+[08:04:09] Deleted uninstalled extension from disk dbaeumer.vscode-eslint /home/coder/.local/share/code-server/extensions/dbaeumer.vscode-eslint-2.4.2-universal
+[08:04:12] [127.0.0.1][3a2f7415][ManagementConnection] New connection established.
+[08:04:15] [127.0.0.1][d9fd9e19][ExtensionHostConnection] New connection established.
+[08:04:15] [127.0.0.1][d9fd9e19][ExtensionHostConnection] <179> Launched Extension Host Process.
+[08:04:47] [127.0.0.1][3a2f7415][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:04:47] [127.0.0.1][d9fd9e19][ExtensionHostConnection] <179> Extension Host Process exited with code: 0, signal: null.
+[2024-01-24T08:56:44.270Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-24T08:56:44.271Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-24T08:56:44.333Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-24T08:56:44.333Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-24T08:56:44.333Z] info    - Authentication is disabled
+[2024-01-24T08:56:44.333Z] info    - Not serving HTTPS
+[2024-01-24T08:56:44.333Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[2024-01-24T14:36:37.375Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-24T14:36:37.377Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-24T14:36:37.401Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-24T14:36:37.401Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-24T14:36:37.401Z] info    - Authentication is disabled
+[2024-01-24T14:36:37.401Z] info    - Not serving HTTPS
+[2024-01-24T14:36:37.401Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[14:37:00] 
+
+
+
+
+[14:37:00] Extension host agent started.
+[15:05:22] [127.0.0.1][f33e00bb][ManagementConnection] New connection established.
+[15:05:25] [127.0.0.1][8c756ed6][ExtensionHostConnection] New connection established.
+[15:05:25] [127.0.0.1][8c756ed6][ExtensionHostConnection] <130> Launched Extension Host Process.
+[15:08:48] [127.0.0.1][7d9d13c5][ManagementConnection] New connection established.
+[15:08:50] [127.0.0.1][7d9d13c5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:14:12] [127.0.0.1][f33e00bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:14:12] [127.0.0.1][8c756ed6][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[2024-01-25T06:54:05.050Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-25T06:54:05.052Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-25T06:54:05.073Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-25T06:54:05.074Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-25T06:54:05.074Z] info    - Authentication is disabled
+[2024-01-25T06:54:05.074Z] info    - Not serving HTTPS
+[2024-01-25T06:54:05.074Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:04:12] 
+
+
+
+
+[07:04:12] Extension host agent started.
+[07:04:15] [127.0.0.1][f70dea9a][ManagementConnection] New connection established.
+[07:04:17] [127.0.0.1][22e21e91][ExtensionHostConnection] New connection established.
+[07:04:17] [127.0.0.1][22e21e91][ExtensionHostConnection] <130> Launched Extension Host Process.
+[07:58:45] [127.0.0.1][089f36cd][ManagementConnection] New connection established.
+[07:58:47] [127.0.0.1][e75cd758][ExtensionHostConnection] New connection established.
+[07:58:47] [127.0.0.1][e75cd758][ExtensionHostConnection] <6298> Launched Extension Host Process.
+[08:24:46] [127.0.0.1][089f36cd][ManagementConnection] The client has reconnected.
+[08:24:46] [127.0.0.1][e75cd758][ExtensionHostConnection] The client has reconnected.
+[08:24:48] [127.0.0.1][f70dea9a][ManagementConnection] The client has reconnected.
+[08:24:48] [127.0.0.1][22e21e91][ExtensionHostConnection] The client has reconnected.
+[09:02:38] [127.0.0.1][f70dea9a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:02:38] [127.0.0.1][22e21e91][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[2024-01-25T09:52:39.253Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-25T09:52:39.257Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-25T09:52:39.278Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-25T09:52:39.279Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-25T09:52:39.279Z] info    - Authentication is disabled
+[2024-01-25T09:52:39.279Z] info    - Not serving HTTPS
+[2024-01-25T09:52:39.279Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[09:52:53] 
+
+
+
+
+[09:52:53] Extension host agent started.
+[10:23:38] [127.0.0.1][1a78405f][ManagementConnection] New connection established.
+[10:23:41] [127.0.0.1][1a38a5c8][ExtensionHostConnection] New connection established.
+[10:23:41] [127.0.0.1][1a38a5c8][ExtensionHostConnection] <144> Launched Extension Host Process.
+[10:28:06] [127.0.0.1][1a78405f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:28:07] [127.0.0.1][1a38a5c8][ExtensionHostConnection] <144> Extension Host Process exited with code: 0, signal: null.
+[10:28:13] [127.0.0.1][b01dfc83][ManagementConnection] New connection established.
+[10:28:15] [127.0.0.1][efad8296][ExtensionHostConnection] New connection established.
+[10:28:15] [127.0.0.1][efad8296][ExtensionHostConnection] <731> Launched Extension Host Process.
+[10:33:03] [127.0.0.1][16f7b7bb][ManagementConnection] New connection established.
+[10:33:05] [127.0.0.1][919fb89f][ExtensionHostConnection] New connection established.
+[10:33:05] [127.0.0.1][919fb89f][ExtensionHostConnection] <1735> Launched Extension Host Process.
+[10:33:10] [127.0.0.1][16f7b7bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:33:11] [127.0.0.1][919fb89f][ExtensionHostConnection] <1735> Extension Host Process exited with code: 0, signal: null.
+[10:34:04] [127.0.0.1][e2293fb0][ManagementConnection] New connection established.
+[10:34:07] [127.0.0.1][3130ba7c][ExtensionHostConnection] New connection established.
+[10:34:07] [127.0.0.1][3130ba7c][ExtensionHostConnection] <1961> Launched Extension Host Process.
+[10:39:30] [127.0.0.1][e2293fb0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:39:30] [127.0.0.1][3130ba7c][ExtensionHostConnection] <1961> Extension Host Process exited with code: 0, signal: null.
+[10:40:38] [127.0.0.1][b01dfc83][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:40:38] [127.0.0.1][efad8296][ExtensionHostConnection] <731> Extension Host Process exited with code: 0, signal: null.
+[10:49:12] [127.0.0.1][f39f5f9c][ManagementConnection] New connection established.
+[10:49:16] [127.0.0.1][e60024cb][ExtensionHostConnection] New connection established.
+[10:49:16] [127.0.0.1][e60024cb][ExtensionHostConnection] <3256> Launched Extension Host Process.
+[10:51:22] [127.0.0.1][f39f5f9c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:51:23] [127.0.0.1][e60024cb][ExtensionHostConnection] <3256> Extension Host Process exited with code: 0, signal: null.
+[10:53:47] [127.0.0.1][c6b66731][ManagementConnection] New connection established.
+[10:53:49] [127.0.0.1][6dc1e418][ExtensionHostConnection] New connection established.
+[10:53:49] [127.0.0.1][6dc1e418][ExtensionHostConnection] <3570> Launched Extension Host Process.
+[11:51:09] [127.0.0.1][c6b66731][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:51:09] [127.0.0.1][6dc1e418][ExtensionHostConnection] <3570> Extension Host Process exited with code: 0, signal: null.
+[2024-01-26T07:07:34.438Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-26T07:07:34.440Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-26T07:07:34.472Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-26T07:07:34.472Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-26T07:07:34.472Z] info    - Authentication is disabled
+[2024-01-26T07:07:34.472Z] info    - Not serving HTTPS
+[2024-01-26T07:07:34.472Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:08:43] 
+
+
+
+
+[07:08:43] Extension host agent started.
+[07:08:48] [127.0.0.1][0adcfdea][ManagementConnection] New connection established.
+[07:08:51] [127.0.0.1][8b7333f5][ExtensionHostConnection] New connection established.
+[07:08:51] [127.0.0.1][8b7333f5][ExtensionHostConnection] <144> Launched Extension Host Process.
+[07:57:13] [127.0.0.1][0adcfdea][ManagementConnection] The client has reconnected.
+[07:57:14] [127.0.0.1][8b7333f5][ExtensionHostConnection] The client has reconnected.
+[09:39:51] [127.0.0.1][0adcfdea][ManagementConnection] The client has reconnected.
+[09:39:51] [127.0.0.1][8b7333f5][ExtensionHostConnection] The client has reconnected.
+[2024-01-26T15:35:23.986Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-26T15:35:23.988Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-26T15:35:24.020Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-26T15:35:24.021Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-26T15:35:24.021Z] info    - Authentication is disabled
+[2024-01-26T15:35:24.021Z] info    - Not serving HTTPS
+[2024-01-26T15:35:24.021Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[15:35:29] 
+
+
+
+
+[15:35:29] Extension host agent started.
+[15:41:32] [127.0.0.1][96c2dfc9][ManagementConnection] New connection established.
+[15:41:37] [127.0.0.1][87bd798b][ExtensionHostConnection] New connection established.
+[15:41:37] [127.0.0.1][87bd798b][ExtensionHostConnection] <142> Launched Extension Host Process.
+[15:41:55] [127.0.0.1][96c2dfc9][ManagementConnection] The client has reconnected.
+[15:41:55] [127.0.0.1][87bd798b][ExtensionHostConnection] The client has reconnected.
+[15:58:10] [127.0.0.1][96c2dfc9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:58:11] [127.0.0.1][87bd798b][ExtensionHostConnection] <142> Extension Host Process exited with code: 0, signal: null.
+[16:00:49] [127.0.0.1][5abb98a0][ManagementConnection] New connection established.
+[16:00:52] [127.0.0.1][15f83a53][ExtensionHostConnection] New connection established.
+[16:00:52] [127.0.0.1][15f83a53][ExtensionHostConnection] <2106> Launched Extension Host Process.
+[16:07:22] [127.0.0.1][5abb98a0][ManagementConnection] The client has reconnected.
+[16:07:23] [127.0.0.1][15f83a53][ExtensionHostConnection] The client has reconnected.
+[16:23:23] [127.0.0.1][5abb98a0][ManagementConnection] The client has reconnected.
+[16:26:09] [127.0.0.1][5abb98a0][ManagementConnection] The client has reconnected.
+[16:26:17] [127.0.0.1][15f83a53][ExtensionHostConnection] The client has reconnected.
+[16:55:56] [127.0.0.1][5abb98a0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:55:56] [127.0.0.1][15f83a53][ExtensionHostConnection] <2106> Extension Host Process exited with code: 0, signal: null.
+[2024-01-27T04:12:37.480Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-27T04:12:37.483Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-27T04:12:37.506Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-27T04:12:37.506Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-27T04:12:37.506Z] info    - Authentication is disabled
+[2024-01-27T04:12:37.506Z] info    - Not serving HTTPS
+[2024-01-27T04:12:37.506Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[04:12:41] 
+
+
+
+
+[04:12:41] Extension host agent started.
+[04:12:43] [127.0.0.1][c3d8f7a3][ManagementConnection] New connection established.
+[04:12:46] [127.0.0.1][65c9f5af][ExtensionHostConnection] New connection established.
+[04:12:46] [127.0.0.1][65c9f5af][ExtensionHostConnection] <132> Launched Extension Host Process.
+[04:15:10] [127.0.0.1][c3d8f7a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:15:10] [127.0.0.1][65c9f5af][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[04:16:05] [127.0.0.1][e3e1da9d][ManagementConnection] New connection established.
+[04:16:07] [127.0.0.1][08d80cf9][ExtensionHostConnection] New connection established.
+[04:16:07] [127.0.0.1][08d80cf9][ExtensionHostConnection] <711> Launched Extension Host Process.
+[04:33:24] [127.0.0.1][e3e1da9d][ManagementConnection] The client has reconnected.
+[04:33:28] [127.0.0.1][08d80cf9][ExtensionHostConnection] The client has reconnected.
+[2024-01-27T05:19:17.704Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-27T05:19:17.706Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-27T05:19:17.731Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-27T05:19:17.731Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-27T05:19:17.731Z] info    - Authentication is disabled
+[2024-01-27T05:19:17.731Z] info    - Not serving HTTPS
+[2024-01-27T05:19:17.732Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[05:19:18] 
+
+
+
+
+[05:19:18] Extension host agent started.
+[05:19:22] [127.0.0.1][a420ef66][ManagementConnection] New connection established.
+[05:19:23] [127.0.0.1][3104e1f1][ExtensionHostConnection] New connection established.
+[05:19:23] [127.0.0.1][3104e1f1][ExtensionHostConnection] <134> Launched Extension Host Process.
+[05:31:20] [127.0.0.1][a420ef66][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:31:20] [127.0.0.1][3104e1f1][ExtensionHostConnection] <134> Extension Host Process exited with code: 0, signal: null.
+[2024-01-27T05:43:36.703Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-27T05:43:36.704Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-27T05:43:36.722Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-27T05:43:36.722Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-27T05:43:36.722Z] info    - Authentication is disabled
+[2024-01-27T05:43:36.722Z] info    - Not serving HTTPS
+[2024-01-27T05:43:36.722Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[05:43:37] 
+
+
+
+
+[05:43:37] Extension host agent started.
+[05:43:38] [127.0.0.1][88e81cb8][ManagementConnection] New connection established.
+[05:43:40] [127.0.0.1][e4875eaf][ExtensionHostConnection] New connection established.
+[05:43:40] [127.0.0.1][e4875eaf][ExtensionHostConnection] <132> Launched Extension Host Process.
+[05:47:46] [127.0.0.1][88e81cb8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:47:46] [127.0.0.1][e4875eaf][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[05:47:59] [127.0.0.1][30781f5d][ManagementConnection] New connection established.
+[05:48:01] [127.0.0.1][1478fd23][ExtensionHostConnection] New connection established.
+[05:48:01] [127.0.0.1][1478fd23][ExtensionHostConnection] <861> Launched Extension Host Process.
+[05:54:42] [127.0.0.1][8aab3655][ManagementConnection] New connection established.
+[05:54:44] [127.0.0.1][fd561683][ExtensionHostConnection] New connection established.
+[05:54:44] [127.0.0.1][fd561683][ExtensionHostConnection] <1672> Launched Extension Host Process.
+[06:00:22] [127.0.0.1][8aab3655][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:00:22] [127.0.0.1][fd561683][ExtensionHostConnection] <1672> Extension Host Process exited with code: 0, signal: null.
+[06:08:35] [127.0.0.1][30781f5d][ManagementConnection] The client has reconnected.
+[06:08:35] [127.0.0.1][1478fd23][ExtensionHostConnection] The client has reconnected.
+[09:28:50] [127.0.0.1][1478fd23][ExtensionHostConnection] <861> Extension Host Process exited with code: 0, signal: null.
+[12:58:07] [127.0.0.1][30781f5d][ManagementConnection] The client has reconnected.
+[12:58:09] [127.0.0.1][d74d091a][ExtensionHostConnection] New connection established.
+[12:58:09] [127.0.0.1][d74d091a][ExtensionHostConnection] <20480> Launched Extension Host Process.
+[13:44:20] [127.0.0.1][30781f5d][ManagementConnection] The client has reconnected.
+[13:44:20] [127.0.0.1][d74d091a][ExtensionHostConnection] The client has reconnected.
+[13:46:39] [127.0.0.1][d74d091a][ExtensionHostConnection] The client has reconnected.
+[13:46:41] [127.0.0.1][30781f5d][ManagementConnection] The client has reconnected.
+[13:47:47] [127.0.0.1][30781f5d][ManagementConnection] The client has reconnected.
+[13:47:47] [127.0.0.1][d74d091a][ExtensionHostConnection] The client has reconnected.
+[15:05:36] [127.0.0.1][d74d091a][ExtensionHostConnection] The client has reconnected.
+[15:05:38] [127.0.0.1][30781f5d][ManagementConnection] The client has reconnected.
+[16:45:36] [127.0.0.1][d74d091a][ExtensionHostConnection] The client has reconnected.
+[16:45:38] [127.0.0.1][30781f5d][ManagementConnection] The client has reconnected.
+[2024-01-28T07:00:58.603Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-28T07:00:58.605Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-28T07:00:58.629Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-28T07:00:58.629Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-28T07:00:58.629Z] info    - Authentication is disabled
+[2024-01-28T07:00:58.629Z] info    - Not serving HTTPS
+[2024-01-28T07:00:58.629Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:01:00] 
+
+
+
+
+[07:01:00] Extension host agent started.
+[07:01:06] [127.0.0.1][8640efe9][ManagementConnection] New connection established.
+[07:01:08] [127.0.0.1][c74c62c0][ExtensionHostConnection] New connection established.
+[07:01:08] [127.0.0.1][c74c62c0][ExtensionHostConnection] <134> Launched Extension Host Process.
+[07:01:42] [127.0.0.1][8640efe9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:01:42] [127.0.0.1][c74c62c0][ExtensionHostConnection] <134> Extension Host Process exited with code: 0, signal: null.
+[07:03:34] [127.0.0.1][cd208100][ManagementConnection] New connection established.
+[07:03:36] [127.0.0.1][df37636b][ExtensionHostConnection] New connection established.
+[07:03:36] [127.0.0.1][df37636b][ExtensionHostConnection] <319> Launched Extension Host Process.
+[07:04:09] [127.0.0.1][738cbfdf][ManagementConnection] New connection established.
+[07:04:11] [127.0.0.1][4e635cf4][ExtensionHostConnection] New connection established.
+[07:04:11] [127.0.0.1][4e635cf4][ExtensionHostConnection] <503> Launched Extension Host Process.
+[07:04:25] [127.0.0.1][738cbfdf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:04:27] [127.0.0.1][4e635cf4][ExtensionHostConnection] <503> Extension Host Process exited with code: 0, signal: null.
+[07:26:24] [127.0.0.1][cd208100][ManagementConnection] The client has reconnected.
+[07:26:25] [127.0.0.1][df37636b][ExtensionHostConnection] The client has reconnected.
+[08:46:17] [127.0.0.1][cd208100][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:46:17] [127.0.0.1][df37636b][ExtensionHostConnection] <319> Extension Host Process exited with code: 0, signal: null.
+[2024-01-28T09:57:42.298Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-28T09:57:42.300Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-28T09:57:42.328Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-28T09:57:42.329Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-28T09:57:42.329Z] info    - Authentication is disabled
+[2024-01-28T09:57:42.329Z] info    - Not serving HTTPS
+[2024-01-28T09:57:42.330Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[09:57:51] 
+
+
+
+
+[09:57:51] Extension host agent started.
+[09:58:05] [127.0.0.1][4a808941][ManagementConnection] New connection established.
+[09:58:07] [127.0.0.1][3706cc85][ExtensionHostConnection] New connection established.
+[09:58:07] [127.0.0.1][3706cc85][ExtensionHostConnection] <144> Launched Extension Host Process.
+[09:59:00] [127.0.0.1][4a808941][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:59:00] [127.0.0.1][3706cc85][ExtensionHostConnection] <144> Extension Host Process exited with code: 0, signal: null.
+[09:59:09] [127.0.0.1][08bcae7c][ManagementConnection] New connection established.
+[09:59:11] [127.0.0.1][d1f1ae07][ExtensionHostConnection] New connection established.
+[09:59:11] [127.0.0.1][d1f1ae07][ExtensionHostConnection] <290> Launched Extension Host Process.
+[10:54:57] [127.0.0.1][9c7ba966][ManagementConnection] New connection established.
+[10:54:59] [127.0.0.1][91179a6a][ExtensionHostConnection] New connection established.
+[10:54:59] [127.0.0.1][91179a6a][ExtensionHostConnection] <5416> Launched Extension Host Process.
+[2024-01-29T07:31:53.721Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-29T07:31:53.722Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-29T07:31:53.748Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-29T07:31:53.748Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-29T07:31:53.748Z] info    - Authentication is disabled
+[2024-01-29T07:31:53.748Z] info    - Not serving HTTPS
+[2024-01-29T07:31:53.748Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:31:56] 
+
+
+
+
+[07:31:56] Extension host agent started.
+[07:32:01] [127.0.0.1][35f8ac6c][ManagementConnection] New connection established.
+[07:32:03] [127.0.0.1][145177d8][ExtensionHostConnection] New connection established.
+[07:32:03] [127.0.0.1][145177d8][ExtensionHostConnection] <131> Launched Extension Host Process.
+[07:40:14] [127.0.0.1][35f8ac6c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:40:14] [127.0.0.1][145177d8][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[07:40:25] [127.0.0.1][1f0a9cf5][ManagementConnection] New connection established.
+[07:40:27] [127.0.0.1][656dcd90][ExtensionHostConnection] New connection established.
+[07:40:27] [127.0.0.1][656dcd90][ExtensionHostConnection] <1231> Launched Extension Host Process.
+[08:01:42] [127.0.0.1][656dcd90][ExtensionHostConnection] The client has reconnected.
+[08:01:43] [127.0.0.1][1f0a9cf5][ManagementConnection] The client has reconnected.
+[2024-01-29T08:33:56.141Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-29T08:33:56.143Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-29T08:33:56.165Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-29T08:33:56.165Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-29T08:33:56.165Z] info    - Authentication is disabled
+[2024-01-29T08:33:56.165Z] info    - Not serving HTTPS
+[2024-01-29T08:33:56.165Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:34:01] 
+
+
+
+
+[08:34:01] Extension host agent started.
+[08:34:05] [127.0.0.1][3260e040][ManagementConnection] New connection established.
+[08:34:07] [127.0.0.1][2eccb2b3][ExtensionHostConnection] New connection established.
+[08:34:07] [127.0.0.1][2eccb2b3][ExtensionHostConnection] <131> Launched Extension Host Process.
+[09:07:08] [127.0.0.1][8200f3e2][ManagementConnection] New connection established.
+[09:07:12] [127.0.0.1][8200f3e2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-01-30T06:53:17.679Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-30T06:53:17.680Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-30T06:53:17.824Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-30T06:53:17.825Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-30T06:53:17.825Z] info    - Authentication is disabled
+[2024-01-30T06:53:17.825Z] info    - Not serving HTTPS
+[2024-01-30T06:53:17.825Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:53:39] 
+
+
+
+
+[06:53:39] Extension host agent started.
+[06:53:47] [127.0.0.1][252c0537][ManagementConnection] New connection established.
+[06:53:50] [127.0.0.1][58ffb70b][ExtensionHostConnection] New connection established.
+[06:53:51] [127.0.0.1][58ffb70b][ExtensionHostConnection] <132> Launched Extension Host Process.
+[07:14:43] [127.0.0.1][8554bd49][ManagementConnection] New connection established.
+[07:14:45] [127.0.0.1][02f1693b][ExtensionHostConnection] New connection established.
+[07:14:45] [127.0.0.1][02f1693b][ExtensionHostConnection] <1788> Launched Extension Host Process.
+[07:48:09] [127.0.0.1][8554bd49][ManagementConnection] The client has reconnected.
+[07:48:13] [127.0.0.1][02f1693b][ExtensionHostConnection] The client has reconnected.
+[07:53:09] [127.0.0.1][58ffb70b][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[2024-01-30T08:57:52.684Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-30T08:57:52.686Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-30T08:57:52.717Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-30T08:57:52.717Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-30T08:57:52.717Z] info    - Authentication is disabled
+[2024-01-30T08:57:52.717Z] info    - Not serving HTTPS
+[2024-01-30T08:57:52.718Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:57:53] 
+
+
+
+
+[08:57:53] Extension host agent started.
+[08:58:01] [127.0.0.1][ff00620e][ManagementConnection] New connection established.
+[08:58:03] [127.0.0.1][515714b8][ExtensionHostConnection] New connection established.
+[08:58:03] [127.0.0.1][515714b8][ExtensionHostConnection] <131> Launched Extension Host Process.
+[2024-01-30T10:02:25.017Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-30T10:02:25.019Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-30T10:02:25.066Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-30T10:02:25.067Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-30T10:02:25.067Z] info    - Authentication is disabled
+[2024-01-30T10:02:25.067Z] info    - Not serving HTTPS
+[2024-01-30T10:02:25.067Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:02:34] 
+
+
+
+
+[10:02:34] Extension host agent started.
+[10:02:40] [127.0.0.1][ad635599][ManagementConnection] New connection established.
+[10:02:42] [127.0.0.1][ee139aae][ExtensionHostConnection] New connection established.
+[10:02:43] [127.0.0.1][ee139aae][ExtensionHostConnection] <131> Launched Extension Host Process.
+[10:22:29] [127.0.0.1][ee139aae][ExtensionHostConnection] The client has reconnected.
+[10:22:29] [127.0.0.1][ad635599][ManagementConnection] The client has reconnected.
+[10:48:06] [127.0.0.1][ee139aae][ExtensionHostConnection] The client has reconnected.
+[10:48:07] [127.0.0.1][ad635599][ManagementConnection] The client has reconnected.
+[11:34:04] [127.0.0.1][ee139aae][ExtensionHostConnection] The client has reconnected.
+[11:34:04] [127.0.0.1][ad635599][ManagementConnection] The client has reconnected.
+[11:59:11] [127.0.0.1][ad635599][ManagementConnection] The client has reconnected.
+[11:59:11] [127.0.0.1][ee139aae][ExtensionHostConnection] The client has reconnected.
+[12:11:27] [127.0.0.1][ee139aae][ExtensionHostConnection] The client has reconnected.
+[12:11:27] [127.0.0.1][ad635599][ManagementConnection] The client has reconnected.
+[12:32:03] [127.0.0.1][ad635599][ManagementConnection] The client has reconnected.
+[12:32:03] [127.0.0.1][ee139aae][ExtensionHostConnection] The client has reconnected.
+[2024-01-30T12:57:14.163Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-01-30T12:57:14.165Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-01-30T12:57:14.179Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-01-30T12:57:14.180Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-01-30T12:57:14.180Z] info    - Authentication is disabled
+[2024-01-30T12:57:14.180Z] info    - Not serving HTTPS
+[2024-01-30T12:57:14.180Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:57:17] 
+
+
+
+
+[12:57:17] Extension host agent started.
+[12:57:21] [127.0.0.1][76f38896][ManagementConnection] New connection established.
+[12:57:23] [127.0.0.1][5f55f1fe][ExtensionHostConnection] New connection established.
+[12:57:23] [127.0.0.1][5f55f1fe][ExtensionHostConnection] <130> Launched Extension Host Process.
+[12:57:31] [127.0.0.1][7a2d9755][ManagementConnection] New connection established.
+[12:57:32] [127.0.0.1][e0b39cb3][ExtensionHostConnection] New connection established.
+[12:57:32] [127.0.0.1][e0b39cb3][ExtensionHostConnection] <372> Launched Extension Host Process.
+[13:01:37] [127.0.0.1][76f38896][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:01:37] [127.0.0.1][5f55f1fe][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[13:51:50] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[13:51:55] [127.0.0.1][e0b39cb3][ExtensionHostConnection] The client has reconnected.
+[14:28:02] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[14:28:02] [127.0.0.1][e0b39cb3][ExtensionHostConnection] The client has reconnected.
+[14:51:55] [127.0.0.1][e0b39cb3][ExtensionHostConnection] <372> Extension Host Process exited with code: 0, signal: null.
+[16:02:52] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[17:04:00] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[21:09:45] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[21:59:41] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[03:14:52] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[03:51:58] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[04:53:01] [127.0.0.1][7a2d9755][ManagementConnection] The client has reconnected.
+[05:01:19] [127.0.0.1][7a2d9755][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-02-02T08:12:24.911Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-02T08:12:24.913Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-02T08:12:25.003Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-02T08:12:25.004Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-02T08:12:25.004Z] info    - Authentication is disabled
+[2024-02-02T08:12:25.004Z] info    - Not serving HTTPS
+[2024-02-02T08:12:25.004Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:12:41] 
+
+
+
+
+[08:12:41] Extension host agent started.
+[08:12:45] [127.0.0.1][34468ae7][ManagementConnection] New connection established.
+[08:12:46] [127.0.0.1][d55d7deb][ExtensionHostConnection] New connection established.
+[08:12:47] [127.0.0.1][d55d7deb][ExtensionHostConnection] <132> Launched Extension Host Process.
+[08:38:15] [127.0.0.1][34468ae7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:38:15] [127.0.0.1][d55d7deb][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[2024-02-02T09:39:00.965Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-02T09:39:00.969Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-02T09:39:00.997Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-02T09:39:00.997Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-02T09:39:00.997Z] info    - Authentication is disabled
+[2024-02-02T09:39:00.997Z] info    - Not serving HTTPS
+[2024-02-02T09:39:00.997Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[09:39:11] 
+
+
+
+
+[09:39:11] Extension host agent started.
+[09:39:13] [127.0.0.1][c7e8ebad][ManagementConnection] New connection established.
+[09:39:15] [127.0.0.1][c7305882][ExtensionHostConnection] New connection established.
+[09:39:15] [127.0.0.1][c7305882][ExtensionHostConnection] <132> Launched Extension Host Process.
+[11:00:46] [127.0.0.1][c7e8ebad][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:00:46] [127.0.0.1][c7305882][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[11:25:10] [127.0.0.1][c35c635b][ManagementConnection] New connection established.
+[12:00:29] [127.0.0.1][dd226625][ManagementConnection] New connection established.
+[12:00:34] [127.0.0.1][781845df][ExtensionHostConnection] New connection established.
+[12:00:34] [127.0.0.1][781845df][ExtensionHostConnection] <9235> Launched Extension Host Process.
+[12:04:50] [127.0.0.1][dd226625][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:04:50] [127.0.0.1][781845df][ExtensionHostConnection] <9235> Extension Host Process exited with code: 0, signal: null.
+[2024-02-03T07:02:09.014Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-03T07:02:09.016Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-03T07:02:09.054Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-03T07:02:09.055Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-03T07:02:09.055Z] info    - Authentication is disabled
+[2024-02-03T07:02:09.056Z] info    - Not serving HTTPS
+[2024-02-03T07:02:09.056Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:02:32] 
+
+
+
+
+[07:02:32] Extension host agent started.
+[07:02:36] [127.0.0.1][7806c28d][ManagementConnection] New connection established.
+[07:02:39] [127.0.0.1][0b6b47f9][ExtensionHostConnection] New connection established.
+[07:02:39] [127.0.0.1][0b6b47f9][ExtensionHostConnection] <129> Launched Extension Host Process.
+[07:29:22] [127.0.0.1][7806c28d][ManagementConnection] The client has reconnected.
+[07:29:28] [127.0.0.1][0b6b47f9][ExtensionHostConnection] The client has reconnected.
+[08:39:48] [127.0.0.1][7806c28d][ManagementConnection] The client has reconnected.
+[08:43:43] [127.0.0.1][7806c28d][ManagementConnection] The client has reconnected.
+[08:43:44] [127.0.0.1][0b6b47f9][ExtensionHostConnection] The client has reconnected.
+[08:56:57] [127.0.0.1][7806c28d][ManagementConnection] The client has reconnected.
+[08:56:57] [127.0.0.1][7806c28d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:57:12] [127.0.0.1][ff1c7c3d][ManagementConnection] New connection established.
+[08:57:14] [127.0.0.1][7eca0cbb][ExtensionHostConnection] New connection established.
+[08:57:14] [127.0.0.1][7eca0cbb][ExtensionHostConnection] <15232> Launched Extension Host Process.
+[10:10:52] [127.0.0.1][ff1c7c3d][ManagementConnection] The client has reconnected.
+[10:10:52] [127.0.0.1][7eca0cbb][ExtensionHostConnection] The client has reconnected.
+[2024-02-03T16:18:45.252Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-03T16:18:45.253Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-03T16:18:45.293Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-03T16:18:45.293Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-03T16:18:45.294Z] info    - Authentication is disabled
+[2024-02-03T16:18:45.294Z] info    - Not serving HTTPS
+[2024-02-03T16:18:45.294Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[16:18:55] 
+
+
+
+
+[16:18:55] Extension host agent started.
+[16:20:17] [127.0.0.1][7c73f250][ManagementConnection] New connection established.
+[16:20:19] [127.0.0.1][8ab40978][ExtensionHostConnection] New connection established.
+[16:20:19] [127.0.0.1][8ab40978][ExtensionHostConnection] <133> Launched Extension Host Process.
+[16:22:08] [127.0.0.1][7c73f250][ManagementConnection] The client has reconnected.
+[2024-02-04T06:16:17.885Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-04T06:16:17.886Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-04T06:16:17.914Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-04T06:16:17.915Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-04T06:16:17.915Z] info    - Authentication is disabled
+[2024-02-04T06:16:17.915Z] info    - Not serving HTTPS
+[2024-02-04T06:16:17.915Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:16:25] 
+
+
+
+
+[06:16:25] Extension host agent started.
+[06:16:29] [127.0.0.1][252ce29d][ManagementConnection] New connection established.
+[06:16:31] [127.0.0.1][eed0e797][ExtensionHostConnection] New connection established.
+[06:16:31] [127.0.0.1][eed0e797][ExtensionHostConnection] <133> Launched Extension Host Process.
+[06:27:45] [127.0.0.1][252ce29d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:27:45] [127.0.0.1][eed0e797][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[2024-02-04T06:29:09.767Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-04T06:29:09.768Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-04T06:29:09.790Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-04T06:29:09.790Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-04T06:29:09.791Z] info    - Authentication is disabled
+[2024-02-04T06:29:09.791Z] info    - Not serving HTTPS
+[2024-02-04T06:29:09.791Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:29:53] 
+
+
+
+
+[06:29:53] Extension host agent started.
+[06:29:55] [127.0.0.1][1603dad5][ManagementConnection] New connection established.
+[06:29:57] [127.0.0.1][b562a6a0][ExtensionHostConnection] New connection established.
+[06:29:57] [127.0.0.1][b562a6a0][ExtensionHostConnection] <128> Launched Extension Host Process.
+[06:55:01] [127.0.0.1][a6d9072b][ManagementConnection] New connection established.
+[06:55:03] [127.0.0.1][86437fda][ExtensionHostConnection] New connection established.
+[06:55:03] [127.0.0.1][86437fda][ExtensionHostConnection] <4358> Launched Extension Host Process.
+[07:04:01] [127.0.0.1][a6d9072b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:04:01] [127.0.0.1][86437fda][ExtensionHostConnection] <4358> Extension Host Process exited with code: 0, signal: null.
+[07:30:46] [127.0.0.1][1603dad5][ManagementConnection] The client has reconnected.
+[07:30:46] [127.0.0.1][b562a6a0][ExtensionHostConnection] The client has reconnected.
+[09:11:29] [127.0.0.1][1603dad5][ManagementConnection] The client has reconnected.
+[09:11:33] [127.0.0.1][b562a6a0][ExtensionHostConnection] The client has reconnected.
+[09:18:20] [127.0.0.1][b562a6a0][ExtensionHostConnection] The client has reconnected.
+[09:18:44] [127.0.0.1][b562a6a0][ExtensionHostConnection] The client has reconnected.
+[09:21:38] [127.0.0.1][1603dad5][ManagementConnection] The client has reconnected.
+[09:21:39] [127.0.0.1][b562a6a0][ExtensionHostConnection] The client has reconnected.
+[2024-02-04T10:19:36.958Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-04T10:19:36.959Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-04T10:19:36.984Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-04T10:19:36.984Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-04T10:19:36.985Z] info    - Authentication is disabled
+[2024-02-04T10:19:36.985Z] info    - Not serving HTTPS
+[2024-02-04T10:19:36.986Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:19:42] 
+
+
+
+
+[10:19:42] Extension host agent started.
+[10:20:17] [127.0.0.1][8292ece3][ManagementConnection] New connection established.
+[10:20:19] [127.0.0.1][6c96a838][ExtensionHostConnection] New connection established.
+[10:20:19] [127.0.0.1][6c96a838][ExtensionHostConnection] <130> Launched Extension Host Process.
+[11:02:37] [127.0.0.1][6c96a838][ExtensionHostConnection] The client has reconnected.
+[11:02:37] [127.0.0.1][8292ece3][ManagementConnection] The client has reconnected.
+[2024-02-04T11:23:15.787Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-04T11:23:15.788Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-04T11:23:15.811Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-04T11:23:15.811Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-04T11:23:15.811Z] info    - Authentication is disabled
+[2024-02-04T11:23:15.811Z] info    - Not serving HTTPS
+[2024-02-04T11:23:15.811Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:23:18] 
+
+
+
+
+[11:23:18] Extension host agent started.
+[11:23:20] [127.0.0.1][4bc22f0a][ManagementConnection] New connection established.
+[11:23:22] [127.0.0.1][a7c88265][ExtensionHostConnection] New connection established.
+[11:23:22] [127.0.0.1][a7c88265][ExtensionHostConnection] <130> Launched Extension Host Process.
+[11:32:31] [127.0.0.1][4bc22f0a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:32:31] [127.0.0.1][a7c88265][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[2024-02-04T11:49:50.218Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-04T11:49:50.220Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-04T11:49:50.246Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-04T11:49:50.247Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-04T11:49:50.247Z] info    - Authentication is disabled
+[2024-02-04T11:49:50.247Z] info    - Not serving HTTPS
+[2024-02-04T11:49:50.247Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:50:10] 
+
+
+
+
+[11:50:10] Extension host agent started.
+[11:50:13] [127.0.0.1][fb20e38b][ManagementConnection] New connection established.
+[11:50:16] [127.0.0.1][2dc2b202][ExtensionHostConnection] New connection established.
+[11:50:16] [127.0.0.1][2dc2b202][ExtensionHostConnection] <134> Launched Extension Host Process.
+[11:51:31] [127.0.0.1][fb20e38b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:51:31] [127.0.0.1][2dc2b202][ExtensionHostConnection] <134> Extension Host Process exited with code: 0, signal: null.
+[11:52:02] [127.0.0.1][4cd4228d][ManagementConnection] New connection established.
+[11:52:04] [127.0.0.1][55753d17][ExtensionHostConnection] New connection established.
+[11:52:04] [127.0.0.1][55753d17][ExtensionHostConnection] <625> Launched Extension Host Process.
+[12:11:11] [127.0.0.1][55753d17][ExtensionHostConnection] The client has reconnected.
+[12:11:11] [127.0.0.1][4cd4228d][ManagementConnection] The client has reconnected.
+[13:39:04] [127.0.0.1][55753d17][ExtensionHostConnection] The client has reconnected.
+[13:39:04] [127.0.0.1][4cd4228d][ManagementConnection] The client has reconnected.
+[14:31:25] [127.0.0.1][55753d17][ExtensionHostConnection] The client has reconnected.
+[14:31:26] [127.0.0.1][4cd4228d][ManagementConnection] The client has reconnected.
+[15:43:14] [127.0.0.1][93bad12d][ManagementConnection] New connection established.
+[15:43:18] [127.0.0.1][f1e113ce][ExtensionHostConnection] New connection established.
+[15:43:18] [127.0.0.1][f1e113ce][ExtensionHostConnection] <38569> Launched Extension Host Process.
+[15:44:37] [127.0.0.1][f1e113ce][ExtensionHostConnection] <38569> Extension Host Process exited with code: 0, signal: null.
+[15:44:37] [127.0.0.1][93bad12d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-02-04T17:07:24.653Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-04T17:07:24.654Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-04T17:07:24.681Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-04T17:07:24.681Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-04T17:07:24.681Z] info    - Authentication is disabled
+[2024-02-04T17:07:24.681Z] info    - Not serving HTTPS
+[2024-02-04T17:07:24.681Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[17:07:35] 
+
+
+
+
+[17:07:35] 
+
+
+
+
+[17:07:35] Extension host agent started.
+[17:07:35] Extension host agent started.
+[17:08:07] [127.0.0.1][2dd036bf][ManagementConnection] New connection established.
+[17:08:09] [127.0.0.1][bfc3b2cd][ExtensionHostConnection] New connection established.
+[17:08:09] [127.0.0.1][bfc3b2cd][ExtensionHostConnection] <128> Launched Extension Host Process.
+[17:13:44] [127.0.0.1][6a15c8cb][ManagementConnection] New connection established.
+[17:13:47] [127.0.0.1][fa5dae4e][ExtensionHostConnection] New connection established.
+[17:13:47] [127.0.0.1][fa5dae4e][ExtensionHostConnection] <1028> Launched Extension Host Process.
+[17:14:21] [127.0.0.1][6a15c8cb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:14:21] [127.0.0.1][fa5dae4e][ExtensionHostConnection] <1028> Extension Host Process exited with code: 0, signal: null.
+[17:14:22] [127.0.0.1][202b0c01][ManagementConnection] New connection established.
+[17:14:25] [127.0.0.1][30633b6d][ExtensionHostConnection] New connection established.
+[17:14:25] [127.0.0.1][30633b6d][ExtensionHostConnection] <1233> Launched Extension Host Process.
+[17:30:49] [127.0.0.1][202b0c01][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:30:49] [127.0.0.1][30633b6d][ExtensionHostConnection] <1233> Extension Host Process exited with code: 0, signal: null.
+[18:46:44] [127.0.0.1][2dd036bf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:46:44] [127.0.0.1][bfc3b2cd][ExtensionHostConnection] <128> Extension Host Process exited with code: 0, signal: null.
+[2024-02-05T05:24:58.421Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-05T05:24:58.423Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-05T05:24:58.455Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-05T05:24:58.467Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-05T05:24:58.467Z] info    - Authentication is disabled
+[2024-02-05T05:24:58.467Z] info    - Not serving HTTPS
+[2024-02-05T05:24:58.467Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[05:25:02] 
+
+
+
+
+[05:25:02] Extension host agent started.
+[05:25:04] [127.0.0.1][0118d068][ManagementConnection] New connection established.
+[05:25:07] [127.0.0.1][2c6fe44b][ExtensionHostConnection] New connection established.
+[05:25:07] [127.0.0.1][2c6fe44b][ExtensionHostConnection] <130> Launched Extension Host Process.
+[2024-02-05T09:33:53.316Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-05T09:33:53.320Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-05T09:33:53.338Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-05T09:33:53.339Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-05T09:33:53.339Z] info    - Authentication is disabled
+[2024-02-05T09:33:53.339Z] info    - Not serving HTTPS
+[2024-02-05T09:33:53.339Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[09:34:07] 
+
+
+
+
+[09:34:07] 
+
+
+
+
+[09:34:07] Extension host agent started.
+[09:34:07] Extension host agent started.
+[09:38:42] [127.0.0.1][0e69058e][ManagementConnection] New connection established.
+[09:38:44] [127.0.0.1][3c6092c9][ExtensionHostConnection] New connection established.
+[09:38:44] [127.0.0.1][3c6092c9][ExtensionHostConnection] <132> Launched Extension Host Process.
+[09:43:45] [127.0.0.1][3c6092c9][ExtensionHostConnection] The client has reconnected.
+[09:43:46] [127.0.0.1][0e69058e][ManagementConnection] The client has reconnected.
+[09:45:44] [127.0.0.1][90ca499a][ManagementConnection] New connection established.
+[09:45:46] [127.0.0.1][ff901a65][ExtensionHostConnection] New connection established.
+[09:45:46] [127.0.0.1][ff901a65][ExtensionHostConnection] <1022> Launched Extension Host Process.
+[10:11:12] [127.0.0.1][90ca499a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:11:12] [127.0.0.1][ff901a65][ExtensionHostConnection] <1022> Extension Host Process exited with code: 0, signal: null.
+[10:15:59] [127.0.0.1][0e69058e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:15:59] [127.0.0.1][3c6092c9][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[2024-02-05T10:16:25.454Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-05T10:16:25.458Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-05T10:16:25.478Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-05T10:16:25.479Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-05T10:16:25.480Z] info    - Authentication is disabled
+[2024-02-05T10:16:25.480Z] info    - Not serving HTTPS
+[2024-02-05T10:16:25.481Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:16:34] 
+
+
+
+
+[10:16:34] Extension host agent started.
+[10:16:38] [127.0.0.1][00740d3b][ManagementConnection] New connection established.
+[10:16:40] [127.0.0.1][33c652a1][ExtensionHostConnection] New connection established.
+[10:16:41] [127.0.0.1][33c652a1][ExtensionHostConnection] <129> Launched Extension Host Process.
+[2024-02-05T11:04:43.004Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-05T11:04:43.006Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-05T11:04:43.027Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-05T11:04:43.028Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-05T11:04:43.028Z] info    - Authentication is disabled
+[2024-02-05T11:04:43.028Z] info    - Not serving HTTPS
+[2024-02-05T11:04:43.028Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:04:47] 
+
+
+
+
+[11:04:47] Extension host agent started.
+[11:08:30] [127.0.0.1][b0bbf766][ManagementConnection] New connection established.
+[11:08:31] [127.0.0.1][b78aebe3][ExtensionHostConnection] New connection established.
+[11:08:31] [127.0.0.1][b78aebe3][ExtensionHostConnection] <130> Launched Extension Host Process.
+[2024-02-05T13:34:02.205Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-05T13:34:02.216Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-05T13:34:02.265Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-05T13:34:02.266Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-05T13:34:02.266Z] info    - Authentication is disabled
+[2024-02-05T13:34:02.267Z] info    - Not serving HTTPS
+[2024-02-05T13:34:02.267Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[13:34:03] 
+
+
+
+
+[13:34:03] Extension host agent started.
+[13:34:06] [127.0.0.1][ff1ff3de][ManagementConnection] New connection established.
+[13:34:08] [127.0.0.1][0a54200d][ExtensionHostConnection] New connection established.
+[13:34:09] [127.0.0.1][0a54200d][ExtensionHostConnection] <131> Launched Extension Host Process.
+[13:51:05] [127.0.0.1][ff1ff3de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:51:06] [127.0.0.1][0a54200d][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[2024-02-05T14:22:10.226Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-05T14:22:10.228Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-05T14:22:10.265Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-05T14:22:10.265Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-05T14:22:10.265Z] info    - Authentication is disabled
+[2024-02-05T14:22:10.265Z] info    - Not serving HTTPS
+[2024-02-05T14:22:10.265Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[14:23:54] 
+
+
+
+
+[14:23:54] Extension host agent started.
+[14:23:58] [127.0.0.1][009b5c6f][ManagementConnection] New connection established.
+[14:24:02] [127.0.0.1][4cf44e33][ExtensionHostConnection] New connection established.
+[14:24:03] [127.0.0.1][4cf44e33][ExtensionHostConnection] <138> Launched Extension Host Process.
+[14:24:32] [127.0.0.1][4cf44e33][ExtensionHostConnection] The client has reconnected.
+[14:24:32] [127.0.0.1][009b5c6f][ManagementConnection] The client has reconnected.
+[14:26:53] [127.0.0.1][eca3cf2c][ManagementConnection] New connection established.
+[14:26:55] [127.0.0.1][0941eba9][ExtensionHostConnection] New connection established.
+[14:26:55] [127.0.0.1][0941eba9][ExtensionHostConnection] <704> Launched Extension Host Process.
+[14:34:11] [127.0.0.1][eca3cf2c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:34:11] [127.0.0.1][0941eba9][ExtensionHostConnection] <704> Extension Host Process exited with code: 0, signal: null.
+[15:52:23] [127.0.0.1][009b5c6f][ManagementConnection] The client has reconnected.
+[15:52:23] [127.0.0.1][4cf44e33][ExtensionHostConnection] The client has reconnected.
+[15:57:40] [127.0.0.1][4cf44e33][ExtensionHostConnection] The client has reconnected.
+[15:57:41] [127.0.0.1][009b5c6f][ManagementConnection] The client has reconnected.
+[17:54:14] [127.0.0.1][009b5c6f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-02-06T06:55:51.196Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-06T06:55:51.198Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-06T06:55:51.239Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-06T06:55:51.239Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-06T06:55:51.239Z] info    - Authentication is disabled
+[2024-02-06T06:55:51.240Z] info    - Not serving HTTPS
+[2024-02-06T06:55:51.240Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:56:03] 
+
+
+
+
+[06:56:03] Extension host agent started.
+[06:56:08] [127.0.0.1][42e0518a][ManagementConnection] New connection established.
+[06:56:10] [127.0.0.1][0598343c][ExtensionHostConnection] New connection established.
+[06:56:10] [127.0.0.1][0598343c][ExtensionHostConnection] <131> Launched Extension Host Process.
+[07:11:44] [127.0.0.1][02a11f15][ManagementConnection] New connection established.
+[07:11:46] [127.0.0.1][0685863f][ExtensionHostConnection] New connection established.
+[07:11:46] [127.0.0.1][0685863f][ExtensionHostConnection] <2130> Launched Extension Host Process.
+[08:27:33] [127.0.0.1][02a11f15][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:27:33] [127.0.0.1][0685863f][ExtensionHostConnection] <2130> Extension Host Process exited with code: 0, signal: null.
+[2024-02-06T08:28:02.997Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-06T08:28:02.998Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-06T08:28:03.031Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-06T08:28:03.032Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-06T08:28:03.032Z] info    - Authentication is disabled
+[2024-02-06T08:28:03.032Z] info    - Not serving HTTPS
+[2024-02-06T08:28:03.032Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:29:03] 
+
+
+
+
+[08:29:03] Extension host agent started.
+[08:29:05] [127.0.0.1][3875d68f][ManagementConnection] New connection established.
+[08:29:07] [127.0.0.1][f15b6b68][ExtensionHostConnection] New connection established.
+[08:29:07] [127.0.0.1][f15b6b68][ExtensionHostConnection] <130> Launched Extension Host Process.
+[09:41:00] [127.0.0.1][9ca080cf][ManagementConnection] New connection established.
+[09:41:02] [127.0.0.1][86087516][ExtensionHostConnection] New connection established.
+[09:41:02] [127.0.0.1][86087516][ExtensionHostConnection] <9344> Launched Extension Host Process.
+[09:42:25] [127.0.0.1][9ca080cf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:42:26] [127.0.0.1][86087516][ExtensionHostConnection] <9344> Extension Host Process exited with code: 0, signal: null.
+[2024-02-06T11:33:23.462Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-06T11:33:23.464Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-06T11:33:23.491Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-06T11:33:23.492Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-06T11:33:23.492Z] info    - Authentication is disabled
+[2024-02-06T11:33:23.492Z] info    - Not serving HTTPS
+[2024-02-06T11:33:23.492Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:33:52] 
+
+
+
+
+[11:33:52] Extension host agent started.
+[11:34:54] [127.0.0.1][74e785e6][ManagementConnection] New connection established.
+[11:34:56] [127.0.0.1][d2be7db8][ExtensionHostConnection] New connection established.
+[11:34:56] [127.0.0.1][d2be7db8][ExtensionHostConnection] <128> Launched Extension Host Process.
+[2024-02-06T12:48:13.602Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-06T12:48:13.603Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-06T12:48:13.636Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-06T12:48:13.636Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-06T12:48:13.636Z] info    - Authentication is disabled
+[2024-02-06T12:48:13.636Z] info    - Not serving HTTPS
+[2024-02-06T12:48:13.636Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:48:21] 
+
+
+
+
+[12:48:21] Extension host agent started.
+[12:48:23] [127.0.0.1][f5b8d254][ManagementConnection] New connection established.
+[12:48:27] [127.0.0.1][d3393118][ExtensionHostConnection] New connection established.
+[12:48:27] [127.0.0.1][d3393118][ExtensionHostConnection] <130> Launched Extension Host Process.
+[13:16:05] [127.0.0.1][0aa41b4c][ManagementConnection] New connection established.
+[13:16:07] [127.0.0.1][8ff3c1e4][ExtensionHostConnection] New connection established.
+[13:16:07] [127.0.0.1][8ff3c1e4][ExtensionHostConnection] <5294> Launched Extension Host Process.
+[13:16:11] [127.0.0.1][8ff3c1e4][ExtensionHostConnection] <5294> Extension Host Process exited with code: 0, signal: null.
+[13:16:11] [127.0.0.1][0aa41b4c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-02-07T11:59:49.944Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-07T11:59:49.945Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-07T11:59:49.963Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-07T11:59:49.963Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-07T11:59:49.964Z] info    - Authentication is disabled
+[2024-02-07T11:59:49.964Z] info    - Not serving HTTPS
+[2024-02-07T11:59:49.964Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:53:40] 
+
+
+
+
+[12:53:40] Extension host agent started.
+[12:53:44] [127.0.0.1][9cc142d8][ManagementConnection] New connection established.
+[12:53:46] [127.0.0.1][5b7e8291][ExtensionHostConnection] New connection established.
+[12:53:46] [127.0.0.1][5b7e8291][ExtensionHostConnection] <326> Launched Extension Host Process.
+[14:31:40] [127.0.0.1][5b7e8291][ExtensionHostConnection] The client has reconnected.
+[14:31:41] [127.0.0.1][9cc142d8][ManagementConnection] The client has reconnected.
+[15:53:22] [127.0.0.1][5b7e8291][ExtensionHostConnection] The client has reconnected.
+[15:53:23] [127.0.0.1][9cc142d8][ManagementConnection] The client has reconnected.
+[15:57:34] [127.0.0.1][9cc142d8][ManagementConnection] The client has reconnected.
+[15:57:39] [127.0.0.1][5b7e8291][ExtensionHostConnection] The client has reconnected.
+[16:01:42] [127.0.0.1][9cc142d8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:01:42] [127.0.0.1][5b7e8291][ExtensionHostConnection] <326> Extension Host Process exited with code: 0, signal: null.
+[16:01:45] [127.0.0.1][48a0ae25][ManagementConnection] New connection established.
+[16:01:50] [127.0.0.1][89ee0f4c][ExtensionHostConnection] New connection established.
+[16:01:50] [127.0.0.1][89ee0f4c][ExtensionHostConnection] <28579> Launched Extension Host Process.
+[2024-02-08T06:45:48.795Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-08T06:45:48.796Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-08T06:45:48.836Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-08T06:45:48.836Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-08T06:45:48.836Z] info    - Authentication is disabled
+[2024-02-08T06:45:48.836Z] info    - Not serving HTTPS
+[2024-02-08T06:45:48.836Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:46:29] 
+
+
+
+
+[06:46:29] Extension host agent started.
+[06:46:40] [127.0.0.1][d49783e5][ManagementConnection] New connection established.
+[06:46:43] [127.0.0.1][f938bd3e][ExtensionHostConnection] New connection established.
+[06:46:43] [127.0.0.1][f938bd3e][ExtensionHostConnection] <129> Launched Extension Host Process.
+[07:33:57] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[07:34:18] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[07:34:40] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[07:35:01] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[07:35:22] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[07:35:43] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[07:36:04] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[07:53:49] [127.0.0.1][f938bd3e][ExtensionHostConnection] The client has reconnected.
+[08:13:23] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:13:40] [127.0.0.1][f938bd3e][ExtensionHostConnection] The client has reconnected.
+[08:13:45] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:14:02] [127.0.0.1][f938bd3e][ExtensionHostConnection] The client has reconnected.
+[08:14:07] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:14:29] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:14:51] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:15:12] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:25:01] [127.0.0.1][f938bd3e][ExtensionHostConnection] The client has reconnected.
+[08:25:45] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:26:01] [127.0.0.1][f938bd3e][ExtensionHostConnection] The client has reconnected.
+[08:26:06] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:27:12] [127.0.0.1][d49783e5][ManagementConnection] The client has reconnected.
+[08:27:15] [127.0.0.1][f938bd3e][ExtensionHostConnection] The client has reconnected.
+[2024-02-08T12:46:29.335Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-08T12:46:29.336Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-08T12:46:29.360Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-08T12:46:29.361Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-08T12:46:29.361Z] info    - Authentication is disabled
+[2024-02-08T12:46:29.361Z] info    - Not serving HTTPS
+[2024-02-08T12:46:29.361Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:46:31] 
+
+
+
+
+[12:46:31] Extension host agent started.
+[12:46:34] [127.0.0.1][ebea4160][ManagementConnection] New connection established.
+[12:46:35] [127.0.0.1][e67ffba9][ExtensionHostConnection] New connection established.
+[12:46:35] [127.0.0.1][e67ffba9][ExtensionHostConnection] <131> Launched Extension Host Process.
+[12:51:55] [127.0.0.1][ddc12401][ManagementConnection] New connection established.
+[12:51:56] [127.0.0.1][425d2acd][ExtensionHostConnection] New connection established.
+[12:51:56] [127.0.0.1][425d2acd][ExtensionHostConnection] <1040> Launched Extension Host Process.
+[12:55:01] [127.0.0.1][ddc12401][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:55:01] [127.0.0.1][425d2acd][ExtensionHostConnection] <1040> Extension Host Process exited with code: 0, signal: null.
+[2024-02-08T12:56:10.286Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-08T12:56:10.287Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-08T12:56:10.315Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-08T12:56:10.315Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-08T12:56:10.315Z] info    - Authentication is disabled
+[2024-02-08T12:56:10.315Z] info    - Not serving HTTPS
+[2024-02-08T12:56:10.315Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:56:24] 
+
+
+
+
+[12:56:24] Extension host agent started.
+[12:56:28] [127.0.0.1][267f630e][ManagementConnection] New connection established.
+[12:56:30] [127.0.0.1][ef57202c][ManagementConnection] New connection established.
+[12:56:30] [127.0.0.1][7cf8cdce][ExtensionHostConnection] New connection established.
+[12:56:31] [127.0.0.1][7cf8cdce][ExtensionHostConnection] <130> Launched Extension Host Process.
+[12:56:32] [127.0.0.1][89d5b5a6][ExtensionHostConnection] New connection established.
+[12:56:32] [127.0.0.1][89d5b5a6][ExtensionHostConnection] <152> Launched Extension Host Process.
+[13:09:33] [127.0.0.1][ef57202c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:09:33] [127.0.0.1][89d5b5a6][ExtensionHostConnection] <152> Extension Host Process exited with code: 0, signal: null.
+[13:13:08] [127.0.0.1][267f630e][ManagementConnection] The client has reconnected.
+[13:13:09] [127.0.0.1][7cf8cdce][ExtensionHostConnection] The client has reconnected.
+[2024-02-09T04:53:04.493Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-09T04:53:04.494Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-09T04:53:04.527Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-09T04:53:04.527Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-09T04:53:04.527Z] info    - Authentication is disabled
+[2024-02-09T04:53:04.527Z] info    - Not serving HTTPS
+[2024-02-09T04:53:04.527Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[04:54:04] 
+
+
+
+
+[04:54:04] Extension host agent started.
+[04:54:06] [127.0.0.1][0c9486ce][ManagementConnection] New connection established.
+[04:54:08] [127.0.0.1][f5219ec6][ExtensionHostConnection] New connection established.
+[04:54:08] [127.0.0.1][f5219ec6][ExtensionHostConnection] <131> Launched Extension Host Process.
+[06:33:14] [127.0.0.1][0c9486ce][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:33:14] [127.0.0.1][f5219ec6][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[06:58:03] [127.0.0.1][97b5b4a2][ManagementConnection] New connection established.
+[06:58:08] [127.0.0.1][97b5b4a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:58:08] [127.0.0.1][12a92f7b][ExtensionHostConnection] New connection established.
+[06:58:08] [127.0.0.1][12a92f7b][ExtensionHostConnection] <15936> Launched Extension Host Process.
+[06:58:10] [127.0.0.1][cd0e75e0][ManagementConnection] New connection established.
+[06:58:12] [127.0.0.1][49e69113][ExtensionHostConnection] New connection established.
+[06:58:12] [127.0.0.1][49e69113][ExtensionHostConnection] <15947> Launched Extension Host Process.
+[07:03:10] [127.0.0.1][12a92f7b][ExtensionHostConnection] <15936> Extension Host Process exited with code: 0, signal: null.
+[07:09:17] [127.0.0.1][49e69113][ExtensionHostConnection] The client has reconnected.
+[07:09:22] [127.0.0.1][cd0e75e0][ManagementConnection] The client has reconnected.
+[2024-02-09T10:37:24.241Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-09T10:37:24.242Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-09T10:37:24.262Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-09T10:37:24.262Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-09T10:37:24.262Z] info    - Authentication is disabled
+[2024-02-09T10:37:24.262Z] info    - Not serving HTTPS
+[2024-02-09T10:37:24.262Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:37:48] 
+
+
+
+
+[10:37:48] Extension host agent started.
+[10:37:53] [127.0.0.1][ef465ea1][ManagementConnection] New connection established.
+[10:37:55] [127.0.0.1][907afaac][ExtensionHostConnection] New connection established.
+[10:37:55] [127.0.0.1][907afaac][ExtensionHostConnection] <131> Launched Extension Host Process.
+[10:42:18] [127.0.0.1][907afaac][ExtensionHostConnection] The client has reconnected.
+[11:29:26] [127.0.0.1][ef465ea1][ManagementConnection] The client has reconnected.
+[11:29:27] [127.0.0.1][907afaac][ExtensionHostConnection] The client has reconnected.
+[2024-02-09T12:06:18.393Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-09T12:06:18.395Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-09T12:06:18.462Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-09T12:06:18.463Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-09T12:06:18.463Z] info    - Authentication is disabled
+[2024-02-09T12:06:18.463Z] info    - Not serving HTTPS
+[2024-02-09T12:06:18.464Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:06:23] 
+
+
+
+
+[12:06:23] Extension host agent started.
+[12:06:25] [127.0.0.1][917e56bd][ManagementConnection] New connection established.
+[12:06:27] [127.0.0.1][96e1e0a6][ExtensionHostConnection] New connection established.
+[12:06:28] [127.0.0.1][96e1e0a6][ExtensionHostConnection] <131> Launched Extension Host Process.
+[2024-02-09T17:34:32.888Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-09T17:34:32.889Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-09T17:34:32.914Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-09T17:34:32.915Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-09T17:34:32.916Z] info    - Authentication is disabled
+[2024-02-09T17:34:32.916Z] info    - Not serving HTTPS
+[2024-02-09T17:34:32.916Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[17:34:33] 
+
+
+
+
+[17:34:34] Extension host agent started.
+[17:34:35] [127.0.0.1][9567aeda][ManagementConnection] New connection established.
+[17:34:37] [127.0.0.1][6456e4e1][ExtensionHostConnection] New connection established.
+[17:34:37] [127.0.0.1][6456e4e1][ExtensionHostConnection] <131> Launched Extension Host Process.
+[18:53:56] [127.0.0.1][9567aeda][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:53:56] [127.0.0.1][6456e4e1][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[2024-02-11T11:14:57.920Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-11T11:14:57.922Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-11T11:14:57.950Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-11T11:14:57.951Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-11T11:14:57.952Z] info    - Authentication is disabled
+[2024-02-11T11:14:57.952Z] info    - Not serving HTTPS
+[2024-02-11T11:14:57.952Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:15:29] 
+
+
+
+
+[11:15:29] Extension host agent started.
+[11:15:35] [127.0.0.1][fd7a454e][ManagementConnection] New connection established.
+[11:15:38] [127.0.0.1][d4f8529d][ExtensionHostConnection] New connection established.
+[11:15:38] [127.0.0.1][d4f8529d][ExtensionHostConnection] <131> Launched Extension Host Process.
+[11:20:56] [127.0.0.1][d4f8529d][ExtensionHostConnection] The client has reconnected.
+[11:20:56] [127.0.0.1][fd7a454e][ManagementConnection] The client has reconnected.
+[11:37:09] [127.0.0.1][d4f8529d][ExtensionHostConnection] The client has reconnected.
+[11:37:09] [127.0.0.1][fd7a454e][ManagementConnection] The client has reconnected.
+[2024-02-12T17:13:48.740Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-12T17:13:48.742Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-12T17:13:48.845Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-12T17:13:48.848Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-12T17:13:48.851Z] info    - Authentication is disabled
+[2024-02-12T17:13:48.851Z] info    - Not serving HTTPS
+[2024-02-12T17:13:48.851Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[17:13:55] 
+
+
+
+
+[17:13:55] Extension host agent started.
+[17:13:59] [127.0.0.1][a34809d3][ManagementConnection] New connection established.
+[17:14:02] [127.0.0.1][38309bf7][ExtensionHostConnection] New connection established.
+[17:14:02] [127.0.0.1][38309bf7][ExtensionHostConnection] <133> Launched Extension Host Process.
+[17:18:33] [127.0.0.1][a34809d3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:18:33] [127.0.0.1][38309bf7][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[2024-02-13T16:30:33.581Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-13T16:30:33.582Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-13T16:30:33.600Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-13T16:30:33.600Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-13T16:30:33.600Z] info    - Authentication is disabled
+[2024-02-13T16:30:33.601Z] info    - Not serving HTTPS
+[2024-02-13T16:30:33.601Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[16:36:38] 
+
+
+
+
+[16:36:38] Extension host agent started.
+[16:36:46] [127.0.0.1][86f6694e][ManagementConnection] New connection established.
+[16:37:02] [127.0.0.1][cfd04349][ExtensionHostConnection] New connection established.
+[16:37:03] [127.0.0.1][cfd04349][ExtensionHostConnection] <209> Launched Extension Host Process.
+[19:16:25] [127.0.0.1][86f6694e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:16:25] [127.0.0.1][cfd04349][ExtensionHostConnection] <209> Extension Host Process exited with code: 0, signal: null.
+[2024-02-14T06:45:48.307Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-14T06:45:48.311Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-14T06:45:48.348Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-14T06:45:48.349Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-14T06:45:48.349Z] info    - Authentication is disabled
+[2024-02-14T06:45:48.349Z] info    - Not serving HTTPS
+[2024-02-14T06:45:48.349Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:46:08] 
+
+
+
+
+[06:46:08] Extension host agent started.
+[06:46:12] [127.0.0.1][a5b009e1][ManagementConnection] New connection established.
+[06:46:14] [127.0.0.1][3db76ed1][ExtensionHostConnection] New connection established.
+[06:46:15] [127.0.0.1][3db76ed1][ExtensionHostConnection] <130> Launched Extension Host Process.
+[06:57:26] [127.0.0.1][a5b009e1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:57:26] [127.0.0.1][3db76ed1][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[06:58:04] [127.0.0.1][a68f423d][ManagementConnection] New connection established.
+[06:58:06] [127.0.0.1][17e548ba][ExtensionHostConnection] New connection established.
+[06:58:06] [127.0.0.1][17e548ba][ExtensionHostConnection] <1601> Launched Extension Host Process.
+[2024-02-14T08:24:13.435Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-14T08:24:13.439Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-14T08:24:13.482Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-14T08:24:13.482Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-14T08:24:13.483Z] info    - Authentication is disabled
+[2024-02-14T08:24:13.483Z] info    - Not serving HTTPS
+[2024-02-14T08:24:13.484Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:24:24] 
+
+
+
+
+[08:24:25] Extension host agent started.
+[08:25:48] [127.0.0.1][935121d8][ManagementConnection] New connection established.
+[08:25:49] [127.0.0.1][d225f075][ExtensionHostConnection] New connection established.
+[08:25:50] [127.0.0.1][d225f075][ExtensionHostConnection] <133> Launched Extension Host Process.
+[10:41:36] [127.0.0.1][935121d8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:41:36] [127.0.0.1][d225f075][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[2024-02-14T10:42:15.930Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-14T10:42:15.934Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-14T10:42:15.962Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-14T10:42:15.963Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-14T10:42:15.963Z] info    - Authentication is disabled
+[2024-02-14T10:42:15.963Z] info    - Not serving HTTPS
+[2024-02-14T10:42:15.963Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:42:21] 
+
+
+
+
+[10:42:21] Extension host agent started.
+[10:42:23] [127.0.0.1][f6638b72][ManagementConnection] New connection established.
+[10:42:25] [127.0.0.1][82f616a3][ExtensionHostConnection] New connection established.
+[10:42:25] [127.0.0.1][82f616a3][ExtensionHostConnection] <131> Launched Extension Host Process.
+[2024-02-15T10:30:07.435Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-15T10:30:07.439Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-15T10:30:07.489Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-15T10:30:07.489Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-15T10:30:07.489Z] info    - Authentication is disabled
+[2024-02-15T10:30:07.489Z] info    - Not serving HTTPS
+[2024-02-15T10:30:07.489Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:30:15] 
+
+
+
+
+[10:30:15] Extension host agent started.
+[10:30:18] [127.0.0.1][c43a3d06][ManagementConnection] New connection established.
+[10:30:20] [127.0.0.1][5e21b602][ExtensionHostConnection] New connection established.
+[10:30:21] [127.0.0.1][5e21b602][ExtensionHostConnection] <133> Launched Extension Host Process.
+[11:07:07] [127.0.0.1][c43a3d06][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:07:07] [127.0.0.1][5e21b602][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[2024-02-16T06:34:12.778Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-16T06:34:12.780Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-16T06:34:12.823Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-16T06:34:12.824Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-16T06:34:12.824Z] info    - Authentication is disabled
+[2024-02-16T06:34:12.824Z] info    - Not serving HTTPS
+[2024-02-16T06:34:12.824Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:34:49] 
+
+
+
+
+[06:34:49] Extension host agent started.
+[06:34:52] [127.0.0.1][f8933225][ManagementConnection] New connection established.
+[06:34:54] [127.0.0.1][fd3d4b92][ExtensionHostConnection] New connection established.
+[06:34:54] [127.0.0.1][fd3d4b92][ExtensionHostConnection] <131> Launched Extension Host Process.
+[07:12:48] [127.0.0.1][fd3d4b92][ExtensionHostConnection] The client has reconnected.
+[07:12:48] [127.0.0.1][f8933225][ManagementConnection] The client has reconnected.
+[2024-02-16T08:35:19.066Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-16T08:35:19.067Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-16T08:35:19.121Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-16T08:35:19.125Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-16T08:35:19.125Z] info    - Authentication is disabled
+[2024-02-16T08:35:19.125Z] info    - Not serving HTTPS
+[2024-02-16T08:35:19.125Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:35:22] 
+
+
+
+
+[08:35:22] Extension host agent started.
+[08:35:26] [127.0.0.1][56b1e26b][ManagementConnection] New connection established.
+[08:35:29] [127.0.0.1][869dcaba][ExtensionHostConnection] New connection established.
+[08:35:29] [127.0.0.1][869dcaba][ExtensionHostConnection] <131> Launched Extension Host Process.
+[09:39:29] [127.0.0.1][869dcaba][ExtensionHostConnection] The client has reconnected.
+[09:39:30] [127.0.0.1][56b1e26b][ManagementConnection] The client has reconnected.
+[10:44:17] [127.0.0.1][56b1e26b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:44:17] [127.0.0.1][869dcaba][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[10:59:23] [127.0.0.1][551b81ea][ManagementConnection] New connection established.
+[10:59:25] [127.0.0.1][a385234d][ExtensionHostConnection] New connection established.
+[10:59:25] [127.0.0.1][a385234d][ExtensionHostConnection] <12418> Launched Extension Host Process.
+[2024-02-16T12:31:03.608Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-16T12:31:03.610Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-16T12:31:03.637Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-16T12:31:03.638Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-16T12:31:03.638Z] info    - Authentication is disabled
+[2024-02-16T12:31:03.638Z] info    - Not serving HTTPS
+[2024-02-16T12:31:03.638Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:33:06] 
+
+
+
+
+[12:33:06] Extension host agent started.
+[12:33:09] [127.0.0.1][f3a3c8f2][ManagementConnection] New connection established.
+[12:33:10] [127.0.0.1][ed74ff56][ExtensionHostConnection] New connection established.
+[12:33:11] [127.0.0.1][ed74ff56][ExtensionHostConnection] <132> Launched Extension Host Process.
+[13:20:19] [127.0.0.1][057e0cf4][ManagementConnection] New connection established.
+[13:20:20] [127.0.0.1][a4c7f3de][ExtensionHostConnection] New connection established.
+[13:20:21] [127.0.0.1][a4c7f3de][ExtensionHostConnection] <4476> Launched Extension Host Process.
+[13:20:49] [127.0.0.1][19be8cc6][ManagementConnection] New connection established.
+[13:20:50] [127.0.0.1][a99a5948][ExtensionHostConnection] New connection established.
+[13:20:50] [127.0.0.1][a99a5948][ExtensionHostConnection] <4731> Launched Extension Host Process.
+[13:26:38] [127.0.0.1][057e0cf4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:26:38] [127.0.0.1][a4c7f3de][ExtensionHostConnection] <4476> Extension Host Process exited with code: 0, signal: null.
+[13:40:23] [127.0.0.1][19be8cc6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:40:23] [127.0.0.1][a99a5948][ExtensionHostConnection] <4731> Extension Host Process exited with code: 0, signal: null.
+[13:40:24] [127.0.0.1][f1709f3f][ManagementConnection] New connection established.
+[13:40:26] [127.0.0.1][e283fee0][ExtensionHostConnection] New connection established.
+[13:40:26] [127.0.0.1][e283fee0][ExtensionHostConnection] <10654> Launched Extension Host Process.
+[14:18:29] [127.0.0.1][ed74ff56][ExtensionHostConnection] The client has reconnected.
+[14:18:30] [127.0.0.1][f3a3c8f2][ManagementConnection] The client has reconnected.
+[2024-02-16T14:20:17.936Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-16T14:20:17.937Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-16T14:20:18.003Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-16T14:20:18.004Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-16T14:20:18.004Z] info    - Authentication is disabled
+[2024-02-16T14:20:18.004Z] info    - Not serving HTTPS
+[2024-02-16T14:20:18.004Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[14:24:07] 
+
+
+
+
+[14:24:07] Extension host agent started.
+[14:24:09] [127.0.0.1][3f21bf02][ManagementConnection] New connection established.
+[14:24:11] [127.0.0.1][b21cf8d1][ExtensionHostConnection] New connection established.
+[14:24:11] [127.0.0.1][b21cf8d1][ExtensionHostConnection] <130> Launched Extension Host Process.
+[14:46:39] [127.0.0.1][3f21bf02][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:46:39] [127.0.0.1][b21cf8d1][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[2024-02-19T07:32:35.394Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-19T07:32:35.395Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-19T07:32:35.460Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-19T07:32:35.460Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-19T07:32:35.462Z] info    - Authentication is disabled
+[2024-02-19T07:32:35.462Z] info    - Not serving HTTPS
+[2024-02-19T07:32:35.462Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:32:55] 
+
+
+
+
+[07:32:56] Extension host agent started.
+[07:32:58] [127.0.0.1][cb16b809][ManagementConnection] New connection established.
+[07:33:00] [127.0.0.1][a1ed86b9][ExtensionHostConnection] New connection established.
+[07:33:00] [127.0.0.1][a1ed86b9][ExtensionHostConnection] <130> Launched Extension Host Process.
+[11:07:46] [127.0.0.1][7dff20a9][ManagementConnection] New connection established.
+[11:07:47] [127.0.0.1][bca55ecf][ExtensionHostConnection] New connection established.
+[11:07:47] [127.0.0.1][bca55ecf][ExtensionHostConnection] <19443> Launched Extension Host Process.
+[11:12:46] [127.0.0.1][a1ed86b9][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[12:59:37] [127.0.0.1][bca55ecf][ExtensionHostConnection] The client has reconnected.
+[12:59:37] [127.0.0.1][7dff20a9][ManagementConnection] The client has reconnected.
+[14:57:06] [127.0.0.1][7dff20a9][ManagementConnection] The client has reconnected.
+[14:57:06] [127.0.0.1][bca55ecf][ExtensionHostConnection] The client has reconnected.
+[15:22:26] [127.0.0.1][7dff20a9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:22:27] [127.0.0.1][bca55ecf][ExtensionHostConnection] <19443> Extension Host Process exited with code: 0, signal: null.
+[2024-02-20T09:08:09.251Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-20T09:08:09.252Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-20T09:08:09.285Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-20T09:08:09.285Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-20T09:08:09.285Z] info    - Authentication is disabled
+[2024-02-20T09:08:09.285Z] info    - Not serving HTTPS
+[2024-02-20T09:08:09.285Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[09:08:10] 
+
+
+
+
+[09:08:10] Extension host agent started.
+[09:08:18] [127.0.0.1][329ad3e7][ManagementConnection] New connection established.
+[09:08:20] [127.0.0.1][1e5a821a][ExtensionHostConnection] New connection established.
+[09:08:21] [127.0.0.1][1e5a821a][ExtensionHostConnection] <143> Launched Extension Host Process.
+[09:44:13] [127.0.0.1][329ad3e7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:44:14] [127.0.0.1][1e5a821a][ExtensionHostConnection] <143> Extension Host Process exited with code: 0, signal: null.
+[2024-02-20T15:35:15.053Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-20T15:35:15.054Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-20T15:35:15.079Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-20T15:35:15.079Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-20T15:35:15.079Z] info    - Authentication is disabled
+[2024-02-20T15:35:15.079Z] info    - Not serving HTTPS
+[2024-02-20T15:35:15.079Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[15:36:31] 
+
+
+
+
+[15:36:31] Extension host agent started.
+[15:36:36] [127.0.0.1][4587babc][ManagementConnection] New connection established.
+[15:36:42] [127.0.0.1][e2b695c1][ExtensionHostConnection] New connection established.
+[15:36:42] [127.0.0.1][e2b695c1][ExtensionHostConnection] <128> Launched Extension Host Process.
+[16:06:43] [127.0.0.1][4587babc][ManagementConnection] The client has reconnected.
+[16:06:44] [127.0.0.1][e2b695c1][ExtensionHostConnection] The client has reconnected.
+[16:10:52] [127.0.0.1][4587babc][ManagementConnection] The client has reconnected.
+[16:10:53] [127.0.0.1][e2b695c1][ExtensionHostConnection] The client has reconnected.
+[16:22:24] [127.0.0.1][4587babc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:22:24] [127.0.0.1][e2b695c1][ExtensionHostConnection] <128> Extension Host Process exited with code: 0, signal: null.
+[17:32:19] [127.0.0.1][5b2ebe8e][ManagementConnection] New connection established.
+[17:32:23] [127.0.0.1][de32784c][ExtensionHostConnection] New connection established.
+[17:32:23] [127.0.0.1][de32784c][ExtensionHostConnection] <3870> Launched Extension Host Process.
+[2024-02-21T07:57:35.162Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-21T07:57:35.166Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-21T07:57:35.217Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-21T07:57:35.233Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-21T07:57:35.234Z] info    - Authentication is disabled
+[2024-02-21T07:57:35.234Z] info    - Not serving HTTPS
+[2024-02-21T07:57:35.234Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:57:52] 
+
+
+
+
+[07:57:52] Extension host agent started.
+[2024-02-21T12:01:24.347Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-21T12:01:24.348Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-21T12:01:24.365Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-21T12:01:24.365Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-21T12:01:24.365Z] info    - Authentication is disabled
+[2024-02-21T12:01:24.365Z] info    - Not serving HTTPS
+[2024-02-21T12:01:24.365Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:01:35] 
+
+
+
+
+[12:01:35] Extension host agent started.
+[12:01:37] [127.0.0.1][6708deac][ManagementConnection] New connection established.
+[12:01:39] [127.0.0.1][30c7ead1][ExtensionHostConnection] New connection established.
+[12:01:39] [127.0.0.1][30c7ead1][ExtensionHostConnection] <131> Launched Extension Host Process.
+[12:58:09] [127.0.0.1][6708deac][ManagementConnection] The client has reconnected.
+[12:58:10] [127.0.0.1][30c7ead1][ExtensionHostConnection] The client has reconnected.
+[13:09:03] [127.0.0.1][30c7ead1][ExtensionHostConnection] The client has reconnected.
+[13:09:04] [127.0.0.1][6708deac][ManagementConnection] The client has reconnected.
+[2024-02-22T06:31:34.864Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-22T06:31:34.865Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-22T06:31:34.912Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-22T06:31:34.912Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-22T06:31:34.912Z] info    - Authentication is disabled
+[2024-02-22T06:31:34.912Z] info    - Not serving HTTPS
+[2024-02-22T06:31:34.913Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:31:44] 
+
+
+
+
+[06:31:44] Extension host agent started.
+[06:34:42] [127.0.0.1][973fb2ed][ManagementConnection] New connection established.
+[06:34:44] [127.0.0.1][0666754a][ExtensionHostConnection] New connection established.
+[06:34:44] [127.0.0.1][0666754a][ExtensionHostConnection] <132> Launched Extension Host Process.
+[06:59:51] [127.0.0.1][973fb2ed][ManagementConnection] The client has reconnected.
+[06:59:51] [127.0.0.1][0666754a][ExtensionHostConnection] The client has reconnected.
+[09:06:38] [127.0.0.1][973fb2ed][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:06:39] [127.0.0.1][0666754a][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[09:07:43] [127.0.0.1][e393ae16][ManagementConnection] New connection established.
+[09:07:45] [127.0.0.1][4fa4de85][ExtensionHostConnection] New connection established.
+[09:07:45] [127.0.0.1][4fa4de85][ExtensionHostConnection] <13310> Launched Extension Host Process.
+[2024-02-22T09:56:45.445Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-22T09:56:45.446Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-22T09:56:45.487Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-22T09:56:45.487Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-22T09:56:45.487Z] info    - Authentication is disabled
+[2024-02-22T09:56:45.487Z] info    - Not serving HTTPS
+[2024-02-22T09:56:45.487Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[09:57:05] 
+
+
+
+
+[09:57:05] Extension host agent started.
+[09:57:07] [127.0.0.1][b7103124][ManagementConnection] New connection established.
+[09:57:09] [127.0.0.1][7e9e8b57][ExtensionHostConnection] New connection established.
+[09:57:09] [127.0.0.1][7e9e8b57][ExtensionHostConnection] <130> Launched Extension Host Process.
+[10:17:36] [127.0.0.1][b7103124][ManagementConnection] The client has reconnected.
+[10:17:47] [127.0.0.1][7e9e8b57][ExtensionHostConnection] The client has reconnected.
+[10:23:36] [127.0.0.1][b7103124][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:23:36] [127.0.0.1][7e9e8b57][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[2024-02-22T10:24:57.380Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-22T10:24:57.381Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-22T10:24:57.406Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-22T10:24:57.406Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-22T10:24:57.407Z] info    - Authentication is disabled
+[2024-02-22T10:24:57.407Z] info    - Not serving HTTPS
+[2024-02-22T10:24:57.407Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:25:21] 
+
+
+
+
+[10:25:21] Extension host agent started.
+[10:25:23] [127.0.0.1][8097005a][ManagementConnection] New connection established.
+[10:25:25] [127.0.0.1][eeeac428][ExtensionHostConnection] New connection established.
+[10:25:25] [127.0.0.1][eeeac428][ExtensionHostConnection] <130> Launched Extension Host Process.
+[2024-02-22T11:23:15.118Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-22T11:23:15.120Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-22T11:23:15.152Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-22T11:23:15.152Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-22T11:23:15.152Z] info    - Authentication is disabled
+[2024-02-22T11:23:15.152Z] info    - Not serving HTTPS
+[2024-02-22T11:23:15.152Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:23:38] 
+
+
+
+
+[11:23:38] Extension host agent started.
+[11:25:16] [127.0.0.1][2ccdf2a9][ManagementConnection] New connection established.
+[11:25:18] [127.0.0.1][a13413d1][ExtensionHostConnection] New connection established.
+[11:25:18] [127.0.0.1][a13413d1][ExtensionHostConnection] <132> Launched Extension Host Process.
+[2024-02-22T12:46:26.099Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-22T12:46:26.101Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-22T12:46:26.125Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-22T12:46:26.125Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-22T12:46:26.125Z] info    - Authentication is disabled
+[2024-02-22T12:46:26.125Z] info    - Not serving HTTPS
+[2024-02-22T12:46:26.125Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:46:35] 
+
+
+
+
+[12:46:35] Extension host agent started.
+[2024-02-23T02:46:35.308Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-23T02:46:35.309Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-23T02:46:35.342Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-23T02:46:35.342Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-23T02:46:35.342Z] info    - Authentication is disabled
+[2024-02-23T02:46:35.342Z] info    - Not serving HTTPS
+[2024-02-23T02:46:35.342Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[02:47:26] 
+
+
+
+
+[02:47:26] Extension host agent started.
+[02:47:50] [127.0.0.1][f2ff9ead][ManagementConnection] New connection established.
+[02:48:13] [127.0.0.1][c53d2ab2][ExtensionHostConnection] New connection established.
+[02:48:13] [127.0.0.1][c53d2ab2][ExtensionHostConnection] <203> Launched Extension Host Process.
+[03:23:06] [127.0.0.1][c53d2ab2][ExtensionHostConnection] The client has reconnected.
+[03:23:09] [127.0.0.1][f2ff9ead][ManagementConnection] The client has reconnected.
+[05:45:44] [127.0.0.1][63b382b2][ManagementConnection] New connection established.
+[05:45:46] [127.0.0.1][a7de9602][ExtensionHostConnection] New connection established.
+[05:45:46] [127.0.0.1][a7de9602][ExtensionHostConnection] <12518> Launched Extension Host Process.
+[05:50:45] [127.0.0.1][c53d2ab2][ExtensionHostConnection] <203> Extension Host Process exited with code: 0, signal: null.
+[05:55:11] [127.0.0.1][63b382b2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:55:11] [127.0.0.1][a7de9602][ExtensionHostConnection] <12518> Extension Host Process exited with code: 0, signal: null.
+[07:30:09] [127.0.0.1][e2932e6a][ManagementConnection] New connection established.
+[07:30:13] [127.0.0.1][bc6c1c85][ExtensionHostConnection] New connection established.
+[07:30:13] [127.0.0.1][bc6c1c85][ExtensionHostConnection] <13701> Launched Extension Host Process.
+[07:37:42] [127.0.0.1][e2932e6a][ManagementConnection] The client has reconnected.
+[07:37:43] [127.0.0.1][bc6c1c85][ExtensionHostConnection] The client has reconnected.
+[2024-02-23T10:05:55.217Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-23T10:05:55.218Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-23T10:05:55.256Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-23T10:05:55.257Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-23T10:05:55.257Z] info    - Authentication is disabled
+[2024-02-23T10:05:55.257Z] info    - Not serving HTTPS
+[2024-02-23T10:05:55.257Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[10:05:55] 
+
+
+
+
+[10:05:55] Extension host agent started.
+[10:06:08] [127.0.0.1][7b0f6ac5][ManagementConnection] New connection established.
+[10:06:10] [127.0.0.1][be3be25e][ExtensionHostConnection] New connection established.
+[10:06:10] [127.0.0.1][be3be25e][ExtensionHostConnection] <133> Launched Extension Host Process.
+[10:29:25] [127.0.0.1][7b0f6ac5][ManagementConnection] The client has reconnected.
+[10:29:26] [127.0.0.1][be3be25e][ExtensionHostConnection] The client has reconnected.
+[10:45:19] [127.0.0.1][be3be25e][ExtensionHostConnection] The client has reconnected.
+[10:45:20] [127.0.0.1][7b0f6ac5][ManagementConnection] The client has reconnected.
+[10:46:43] [127.0.0.1][7b0f6ac5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:46:43] [127.0.0.1][be3be25e][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[10:46:45] [127.0.0.1][e1bf97a0][ManagementConnection] New connection established.
+[10:46:47] [127.0.0.1][65e0ec95][ExtensionHostConnection] New connection established.
+[10:46:47] [127.0.0.1][65e0ec95][ExtensionHostConnection] <4981> Launched Extension Host Process.
+[2024-02-23T12:16:34.089Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-23T12:16:34.093Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-23T12:16:34.117Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-23T12:16:34.117Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-23T12:16:34.117Z] info    - Authentication is disabled
+[2024-02-23T12:16:34.117Z] info    - Not serving HTTPS
+[2024-02-23T12:16:34.117Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:16:35] 
+
+
+
+
+[12:16:36] Extension host agent started.
+[12:16:39] [127.0.0.1][c38bca40][ManagementConnection] New connection established.
+[12:16:41] [127.0.0.1][ee11c48c][ExtensionHostConnection] New connection established.
+[12:16:42] [127.0.0.1][ee11c48c][ExtensionHostConnection] <140> Launched Extension Host Process.
+[2024-02-23T12:54:28.989Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-23T12:54:29.001Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-23T12:54:29.047Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-23T12:54:29.048Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-23T12:54:29.048Z] info    - Authentication is disabled
+[2024-02-23T12:54:29.048Z] info    - Not serving HTTPS
+[2024-02-23T12:54:29.048Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:54:32] 
+
+
+
+
+[12:54:32] Extension host agent started.
+[12:54:33] [127.0.0.1][7593d9a6][ManagementConnection] New connection established.
+[12:54:35] [127.0.0.1][1dcf669a][ExtensionHostConnection] New connection established.
+[12:54:35] [127.0.0.1][1dcf669a][ExtensionHostConnection] <131> Launched Extension Host Process.
+[13:42:46] [127.0.0.1][7593d9a6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:42:47] [127.0.0.1][1dcf669a][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[2024-02-24T03:07:10.564Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-24T03:07:10.565Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-24T03:07:10.609Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-24T03:07:10.610Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-24T03:07:10.610Z] info    - Authentication is disabled
+[2024-02-24T03:07:10.610Z] info    - Not serving HTTPS
+[2024-02-24T03:07:10.610Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[03:07:40] 
+
+
+
+
+[03:07:40] Extension host agent started.
+[03:07:43] [127.0.0.1][95436bb1][ManagementConnection] New connection established.
+[03:07:46] [127.0.0.1][b4c5041e][ExtensionHostConnection] New connection established.
+[03:07:46] [127.0.0.1][b4c5041e][ExtensionHostConnection] <132> Launched Extension Host Process.
+[03:20:40] [127.0.0.1][95436bb1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[03:20:40] [127.0.0.1][b4c5041e][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[03:20:57] [127.0.0.1][1095c67a][ManagementConnection] New connection established.
+[03:20:59] [127.0.0.1][89f8239c][ExtensionHostConnection] New connection established.
+[03:20:59] [127.0.0.1][89f8239c][ExtensionHostConnection] <2157> Launched Extension Host Process.
+[05:22:01] [127.0.0.1][34840a49][ManagementConnection] New connection established.
+[05:22:04] [127.0.0.1][20c36647][ExtensionHostConnection] New connection established.
+[05:22:04] [127.0.0.1][20c36647][ExtensionHostConnection] <14564> Launched Extension Host Process.
+[05:27:01] [127.0.0.1][89f8239c][ExtensionHostConnection] <2157> Extension Host Process exited with code: 0, signal: null.
+[08:18:28] [127.0.0.1][34840a49][ManagementConnection] The client has reconnected.
+[08:18:29] [127.0.0.1][20c36647][ExtensionHostConnection] The client has reconnected.
+[08:49:36] [127.0.0.1][20c36647][ExtensionHostConnection] The client has reconnected.
+[08:49:39] [127.0.0.1][34840a49][ManagementConnection] The client has reconnected.
+[2024-02-24T13:21:17.100Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-24T13:21:17.101Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-24T13:21:17.127Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-24T13:21:17.127Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-24T13:21:17.127Z] info    - Authentication is disabled
+[2024-02-24T13:21:17.127Z] info    - Not serving HTTPS
+[2024-02-24T13:21:17.127Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[13:22:03] 
+
+
+
+
+[13:22:03] Extension host agent started.
+[13:22:10] [127.0.0.1][09fdfa24][ManagementConnection] New connection established.
+[13:22:12] [127.0.0.1][ee28a490][ExtensionHostConnection] New connection established.
+[13:22:12] [127.0.0.1][ee28a490][ExtensionHostConnection] <134> Launched Extension Host Process.
+[2024-02-24T15:04:49.087Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-24T15:04:49.088Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-24T15:04:49.120Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-24T15:04:49.120Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-24T15:04:49.120Z] info    - Authentication is disabled
+[2024-02-24T15:04:49.120Z] info    - Not serving HTTPS
+[2024-02-24T15:04:49.120Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[15:06:56] 
+
+
+
+
+[15:06:56] Extension host agent started.
+[15:06:58] [127.0.0.1][fbd2c262][ManagementConnection] New connection established.
+[15:06:59] [127.0.0.1][848425fc][ExtensionHostConnection] New connection established.
+[15:07:00] [127.0.0.1][848425fc][ExtensionHostConnection] <132> Launched Extension Host Process.
+[17:33:52] [127.0.0.1][848425fc][ExtensionHostConnection] The client has reconnected.
+[17:33:53] [127.0.0.1][fbd2c262][ManagementConnection] The client has reconnected.
+[18:24:03] [127.0.0.1][fbd2c262][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:24:04] [127.0.0.1][848425fc][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[2024-02-26T07:17:30.157Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-26T07:17:30.159Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-26T07:17:30.191Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-26T07:17:30.191Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-26T07:17:30.191Z] info    - Authentication is disabled
+[2024-02-26T07:17:30.191Z] info    - Not serving HTTPS
+[2024-02-26T07:17:30.191Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:17:50] 
+
+
+
+
+[07:17:50] Extension host agent started.
+[07:17:55] [127.0.0.1][2dce3615][ManagementConnection] New connection established.
+[07:17:57] [127.0.0.1][4bb3a312][ExtensionHostConnection] New connection established.
+[07:17:58] [127.0.0.1][4bb3a312][ExtensionHostConnection] <130> Launched Extension Host Process.
+[07:19:34] [127.0.0.1][2dce3615][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:19:35] [127.0.0.1][4bb3a312][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[07:20:22] [127.0.0.1][22cccff0][ManagementConnection] New connection established.
+[07:20:24] [127.0.0.1][e74f1751][ExtensionHostConnection] New connection established.
+[07:20:24] [127.0.0.1][e74f1751][ExtensionHostConnection] <369> Launched Extension Host Process.
+[2024-02-26T07:55:00.213Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-26T07:55:00.217Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-26T07:55:00.248Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-26T07:55:00.248Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-26T07:55:00.248Z] info    - Authentication is disabled
+[2024-02-26T07:55:00.248Z] info    - Not serving HTTPS
+[2024-02-26T07:55:00.248Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:55:18] 
+
+
+
+
+[07:55:19] Extension host agent started.
+[07:55:21] [127.0.0.1][45088bfc][ManagementConnection] New connection established.
+[07:55:23] [127.0.0.1][3c359827][ExtensionHostConnection] New connection established.
+[07:55:23] [127.0.0.1][3c359827][ExtensionHostConnection] <131> Launched Extension Host Process.
+[08:07:30] [127.0.0.1][3c359827][ExtensionHostConnection] The client has reconnected.
+[08:07:30] [127.0.0.1][45088bfc][ManagementConnection] The client has reconnected.
+[10:41:16] [127.0.0.1][45088bfc][ManagementConnection] The client has reconnected.
+[10:41:17] [127.0.0.1][3c359827][ExtensionHostConnection] The client has reconnected.
+[11:46:53] [127.0.0.1][45088bfc][ManagementConnection] The client has reconnected.
+[11:46:54] [127.0.0.1][3c359827][ExtensionHostConnection] The client has reconnected.
+[12:17:59] [127.0.0.1][45088bfc][ManagementConnection] The client has reconnected.
+[12:18:01] [127.0.0.1][3c359827][ExtensionHostConnection] The client has reconnected.
+[12:19:08] [127.0.0.1][3c359827][ExtensionHostConnection] The client has reconnected.
+[12:19:09] [127.0.0.1][45088bfc][ManagementConnection] The client has reconnected.
+[12:29:43] [127.0.0.1][45088bfc][ManagementConnection] The client has reconnected.
+[12:34:14] [127.0.0.1][45088bfc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:34:14] [127.0.0.1][3c359827][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[2024-02-27T14:48:48.694Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-27T14:48:48.704Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-27T14:48:48.736Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-27T14:48:48.737Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-27T14:48:48.737Z] info    - Authentication is disabled
+[2024-02-27T14:48:48.737Z] info    - Not serving HTTPS
+[2024-02-27T14:48:48.737Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[14:49:22] 
+
+
+
+
+[14:49:22] Extension host agent started.
+[14:49:29] [127.0.0.1][69917175][ManagementConnection] New connection established.
+[14:49:31] [127.0.0.1][d4b6eae8][ExtensionHostConnection] New connection established.
+[14:49:31] [127.0.0.1][d4b6eae8][ExtensionHostConnection] <132> Launched Extension Host Process.
+[17:06:31] [127.0.0.1][d4b6eae8][ExtensionHostConnection] The client has reconnected.
+[17:06:38] [127.0.0.1][69917175][ManagementConnection] The client has reconnected.
+[17:18:41] [127.0.0.1][d4b6eae8][ExtensionHostConnection] The client has reconnected.
+[17:18:42] [127.0.0.1][69917175][ManagementConnection] The client has reconnected.
+[2024-02-28T09:52:35.337Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-28T09:52:35.338Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-28T09:52:35.372Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-28T09:52:35.372Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-28T09:52:35.372Z] info    - Authentication is disabled
+[2024-02-28T09:52:35.372Z] info    - Not serving HTTPS
+[2024-02-28T09:52:35.373Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[09:53:04] 
+
+
+
+
+[09:53:04] Extension host agent started.
+[09:53:06] [127.0.0.1][fb206180][ManagementConnection] New connection established.
+[09:53:08] [127.0.0.1][d657ac7f][ExtensionHostConnection] New connection established.
+[09:53:09] [127.0.0.1][d657ac7f][ExtensionHostConnection] <134> Launched Extension Host Process.
+[10:14:15] [127.0.0.1][d657ac7f][ExtensionHostConnection] The client has reconnected.
+[10:15:06] [127.0.0.1][fb206180][ManagementConnection] The client has reconnected.
+[10:15:12] [127.0.0.1][d657ac7f][ExtensionHostConnection] The client has reconnected.
+[10:19:47] [127.0.0.1][fb206180][ManagementConnection] The client has reconnected.
+[10:19:50] [127.0.0.1][d657ac7f][ExtensionHostConnection] The client has reconnected.
+[12:04:15] [127.0.0.1][fb206180][ManagementConnection] The client has reconnected.
+[12:04:17] [127.0.0.1][d657ac7f][ExtensionHostConnection] The client has reconnected.
+[12:13:41] [127.0.0.1][85acfe96][ManagementConnection] New connection established.
+[12:13:43] [127.0.0.1][effd7b29][ExtensionHostConnection] New connection established.
+[12:13:43] [127.0.0.1][effd7b29][ExtensionHostConnection] <14089> Launched Extension Host Process.
+[12:17:51] [127.0.0.1][fb206180][ManagementConnection] The client has reconnected.
+[12:18:01] [127.0.0.1][d657ac7f][ExtensionHostConnection] The client has reconnected.
+[13:48:03] [127.0.0.1][d657ac7f][ExtensionHostConnection] The client has reconnected.
+[13:48:04] [127.0.0.1][fb206180][ManagementConnection] The client has reconnected.
+[13:48:05] [127.0.0.1][fb206180][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:48:05] [127.0.0.1][d657ac7f][ExtensionHostConnection] <134> Extension Host Process exited with code: 0, signal: null.
+[2024-02-29T08:11:50.355Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-29T08:11:50.356Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-29T08:11:50.380Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-29T08:11:50.380Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-29T08:11:50.380Z] info    - Authentication is disabled
+[2024-02-29T08:11:50.380Z] info    - Not serving HTTPS
+[2024-02-29T08:11:50.380Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[08:12:04] 
+
+
+
+
+[08:12:04] Extension host agent started.
+[08:12:06] [127.0.0.1][ea5fd0b9][ManagementConnection] New connection established.
+[08:12:08] [127.0.0.1][022d92eb][ExtensionHostConnection] New connection established.
+[08:12:09] [127.0.0.1][022d92eb][ExtensionHostConnection] <131> Launched Extension Host Process.
+[08:54:45] [127.0.0.1][ea5fd0b9][ManagementConnection] The client has reconnected.
+[08:54:45] [127.0.0.1][022d92eb][ExtensionHostConnection] The client has reconnected.
+[08:58:11] [127.0.0.1][022d92eb][ExtensionHostConnection] The client has reconnected.
+[08:58:12] [127.0.0.1][ea5fd0b9][ManagementConnection] The client has reconnected.
+[11:06:33] [127.0.0.1][ea5fd0b9][ManagementConnection] The client has reconnected.
+[11:11:34] [127.0.0.1][022d92eb][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[11:13:18] [127.0.0.1][ea5fd0b9][ManagementConnection] The client has reconnected.
+[11:13:19] [127.0.0.1][ff7b2954][ExtensionHostConnection] New connection established.
+[11:13:19] [127.0.0.1][ff7b2954][ExtensionHostConnection] <23125> Launched Extension Host Process.
+[11:39:23] [127.0.0.1][ff7b2954][ExtensionHostConnection] The client has reconnected.
+[11:39:24] [127.0.0.1][ea5fd0b9][ManagementConnection] The client has reconnected.
+[12:06:31] [127.0.0.1][ff7b2954][ExtensionHostConnection] The client has reconnected.
+[12:06:31] [127.0.0.1][ea5fd0b9][ManagementConnection] The client has reconnected.
+[2024-02-29T12:16:00.949Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-29T12:16:00.952Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-29T12:16:00.975Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-29T12:16:00.975Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-29T12:16:00.975Z] info    - Authentication is disabled
+[2024-02-29T12:16:00.975Z] info    - Not serving HTTPS
+[2024-02-29T12:16:00.975Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[12:16:19] 
+
+
+
+
+[12:16:19] Extension host agent started.
+[12:36:04] [127.0.0.1][93a8b4b4][ManagementConnection] New connection established.
+[12:36:07] [127.0.0.1][a48f2522][ExtensionHostConnection] New connection established.
+[12:36:07] [127.0.0.1][a48f2522][ExtensionHostConnection] <130> Launched Extension Host Process.
+[13:38:06] [127.0.0.1][a48f2522][ExtensionHostConnection] The client has reconnected.
+[13:38:06] [127.0.0.1][93a8b4b4][ManagementConnection] The client has reconnected.
+[2024-02-29T13:52:58.911Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-29T13:52:58.912Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-29T13:52:58.953Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-29T13:52:58.953Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-29T13:52:58.953Z] info    - Authentication is disabled
+[2024-02-29T13:52:58.953Z] info    - Not serving HTTPS
+[2024-02-29T13:52:58.953Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[13:54:05] 
+
+
+
+
+[13:54:05] Extension host agent started.
+[13:54:09] [127.0.0.1][62294991][ManagementConnection] New connection established.
+[13:54:11] [127.0.0.1][f860bcb6][ExtensionHostConnection] New connection established.
+[13:54:11] [127.0.0.1][f860bcb6][ExtensionHostConnection] <133> Launched Extension Host Process.
+[14:43:16] [127.0.0.1][f860bcb6][ExtensionHostConnection] The client has reconnected.
+[14:43:17] [127.0.0.1][62294991][ManagementConnection] The client has reconnected.
+[15:00:13] [127.0.0.1][62294991][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:00:14] [127.0.0.1][f860bcb6][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[15:00:18] [127.0.0.1][b2cc0552][ManagementConnection] New connection established.
+[15:00:22] [127.0.0.1][e03d2409][ExtensionHostConnection] New connection established.
+[15:00:22] [127.0.0.1][e03d2409][ExtensionHostConnection] <9066> Launched Extension Host Process.
+[15:01:10] [127.0.0.1][b2cc0552][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:01:20] [127.0.0.1][70e598ff][ManagementConnection] New connection established.
+[15:01:28] [127.0.0.1][9f6b103e][ExtensionHostConnection] New connection established.
+[15:01:28] [127.0.0.1][9f6b103e][ExtensionHostConnection] <9103> Launched Extension Host Process.
+[15:02:40] [127.0.0.1][70e598ff][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:02:40] [127.0.0.1][9f6b103e][ExtensionHostConnection] <9103> Extension Host Process exited with code: 0, signal: null.
+[2024-02-29T15:03:12.536Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-29T15:03:12.537Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-29T15:03:12.559Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-29T15:03:12.559Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-29T15:03:12.559Z] info    - Authentication is disabled
+[2024-02-29T15:03:12.559Z] info    - Not serving HTTPS
+[2024-02-29T15:03:12.559Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[15:03:23] 
+
+
+
+
+[15:03:23] Extension host agent started.
+[15:03:26] [127.0.0.1][fd7e099b][ManagementConnection] New connection established.
+[15:03:28] [127.0.0.1][97dc496e][ExtensionHostConnection] New connection established.
+[15:03:28] [127.0.0.1][97dc496e][ExtensionHostConnection] <130> Launched Extension Host Process.
+[15:22:24] [127.0.0.1][97dc496e][ExtensionHostConnection] The client has reconnected.
+[16:19:36] [127.0.0.1][b2d16515][ManagementConnection] New connection established.
+[16:19:38] [127.0.0.1][819e865c][ExtensionHostConnection] New connection established.
+[16:19:38] [127.0.0.1][819e865c][ExtensionHostConnection] <17599> Launched Extension Host Process.
+[16:22:39] [127.0.0.1][819e865c][ExtensionHostConnection] The client has reconnected.
+[16:22:44] [127.0.0.1][b2d16515][ManagementConnection] The client has reconnected.
+[16:26:33] [127.0.0.1][f1b35fae][ManagementConnection] New connection established.
+[16:26:35] [127.0.0.1][eebe73b0][ExtensionHostConnection] New connection established.
+[16:26:35] [127.0.0.1][eebe73b0][ExtensionHostConnection] <19192> Launched Extension Host Process.
+[2024-02-29T16:27:30.689Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-02-29T16:27:30.691Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-02-29T16:27:30.716Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-02-29T16:27:30.716Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-02-29T16:27:30.716Z] info    - Authentication is disabled
+[2024-02-29T16:27:30.716Z] info    - Not serving HTTPS
+[2024-02-29T16:27:30.716Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[16:27:35] 
+
+
+
+
+[16:27:35] Extension host agent started.
+[16:27:44] [127.0.0.1][fd6ecc35][ManagementConnection] New connection established.
+[16:27:46] [127.0.0.1][cad74288][ExtensionHostConnection] New connection established.
+[16:27:46] [127.0.0.1][cad74288][ExtensionHostConnection] <132> Launched Extension Host Process.
+[16:39:15] [127.0.0.1][fd6ecc35][ManagementConnection] The client has reconnected.
+[16:43:54] [127.0.0.1][cad74288][ExtensionHostConnection] The client has reconnected.
+[20:21:38] [127.0.0.1][cad74288][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[06:14:29] [127.0.0.1][70863d22][ManagementConnection] New connection established.
+[06:14:32] [127.0.0.1][874da8b4][ExtensionHostConnection] New connection established.
+[06:14:32] [127.0.0.1][874da8b4][ExtensionHostConnection] <19342> Launched Extension Host Process.
+[06:17:19] [127.0.0.1][874da8b4][ExtensionHostConnection] The client has reconnected.
+[06:17:51] [127.0.0.1][874da8b4][ExtensionHostConnection] <19342> Extension Host Process exited with code: 0, signal: null.
+[06:17:54] [127.0.0.1][2ae4a9ef][ManagementConnection] New connection established.
+[06:17:56] [127.0.0.1][4519eaba][ExtensionHostConnection] New connection established.
+[06:17:56] [127.0.0.1][4519eaba][ExtensionHostConnection] <19774> Launched Extension Host Process.
+[07:01:33] [127.0.0.1][4519eaba][ExtensionHostConnection] The client has reconnected.
+[07:01:34] [127.0.0.1][2ae4a9ef][ManagementConnection] The client has reconnected.
+[09:18:17] [127.0.0.1][4519eaba][ExtensionHostConnection] The client has reconnected.
+[2024-03-01T15:14:28.818Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-01T15:14:28.819Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-01T15:14:28.850Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-01T15:14:28.851Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-01T15:14:28.851Z] info    - Authentication is disabled
+[2024-03-01T15:14:28.851Z] info    - Not serving HTTPS
+[2024-03-01T15:14:28.852Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[15:15:19] 
+
+
+
+
+[15:15:19] Extension host agent started.
+[15:15:22] [127.0.0.1][036c814c][ManagementConnection] New connection established.
+[15:15:23] [127.0.0.1][2853320a][ExtensionHostConnection] New connection established.
+[15:15:24] [127.0.0.1][2853320a][ExtensionHostConnection] <132> Launched Extension Host Process.
+[15:15:30] [127.0.0.1][036c814c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:15:32] [127.0.0.1][2853320a][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[10:47:58] [127.0.0.1][16e0a1d8][ManagementConnection] New connection established.
+[10:48:00] [127.0.0.1][e3360867][ExtensionHostConnection] New connection established.
+[10:48:00] [127.0.0.1][e3360867][ExtensionHostConnection] <384> Launched Extension Host Process.
+[11:01:26] [127.0.0.1][e3360867][ExtensionHostConnection] <384> Extension Host Process exited with code: 0, signal: null.
+[11:01:26] [127.0.0.1][16e0a1d8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-03-02T11:01:49.483Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-02T11:01:49.484Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-02T11:01:49.506Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-02T11:01:49.507Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-02T11:01:49.507Z] info    - Authentication is disabled
+[2024-03-02T11:01:49.507Z] info    - Not serving HTTPS
+[2024-03-02T11:01:49.507Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:01:53] 
+
+
+
+
+[11:01:53] Extension host agent started.
+[11:01:54] [127.0.0.1][a3bbef2e][ManagementConnection] New connection established.
+[11:01:57] [127.0.0.1][d17043d0][ExtensionHostConnection] New connection established.
+[11:01:57] [127.0.0.1][d17043d0][ExtensionHostConnection] <132> Launched Extension Host Process.
+[11:10:02] [127.0.0.1][d17043d0][ExtensionHostConnection] The client has reconnected.
+[11:10:06] [127.0.0.1][a3bbef2e][ManagementConnection] The client has reconnected.
+[11:25:51] [127.0.0.1][4c016895][ManagementConnection] New connection established.
+[11:25:52] [127.0.0.1][c3f0f48b][ExtensionHostConnection] New connection established.
+[11:25:52] [127.0.0.1][c3f0f48b][ExtensionHostConnection] <3500> Launched Extension Host Process.
+[11:31:17] [127.0.0.1][4c016895][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:31:17] [127.0.0.1][c3f0f48b][ExtensionHostConnection] <3500> Extension Host Process exited with code: 0, signal: null.
+[11:31:43] [127.0.0.1][d17043d0][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[11:31:43] [127.0.0.1][a3bbef2e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-03-02T11:42:09.116Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-02T11:42:09.117Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-02T11:42:09.139Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-02T11:42:09.139Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-02T11:42:09.139Z] info    - Authentication is disabled
+[2024-03-02T11:42:09.140Z] info    - Not serving HTTPS
+[2024-03-02T11:42:09.140Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[11:42:28] 
+
+
+
+
+[11:42:28] Extension host agent started.
+[11:42:34] [127.0.0.1][2ce41f3f][ManagementConnection] New connection established.
+[11:42:36] [127.0.0.1][d7edb84a][ExtensionHostConnection] New connection established.
+[11:42:36] [127.0.0.1][d7edb84a][ExtensionHostConnection] <132> Launched Extension Host Process.
+[2024-03-06T06:33:55.789Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-06T06:33:55.792Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-06T06:33:55.812Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-06T06:33:55.812Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-06T06:33:55.812Z] info    - Authentication is disabled
+[2024-03-06T06:33:55.812Z] info    - Not serving HTTPS
+[2024-03-06T06:33:55.812Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:51:00] 
+
+
+
+
+[06:51:01] Extension host agent started.
+[06:51:05] [127.0.0.1][723ca183][ManagementConnection] New connection established.
+[06:51:07] [127.0.0.1][08431428][ExtensionHostConnection] New connection established.
+[06:51:08] [127.0.0.1][08431428][ExtensionHostConnection] <133> Launched Extension Host Process.
+[13:40:46] [127.0.0.1][08431428][ExtensionHostConnection] The client has reconnected.
+[13:40:47] [127.0.0.1][723ca183][ManagementConnection] The client has reconnected.
+[14:00:33] [127.0.0.1][723ca183][ManagementConnection] The client has reconnected.
+[14:00:34] [127.0.0.1][08431428][ExtensionHostConnection] The client has reconnected.
+[14:01:01] [127.0.0.1][723ca183][ManagementConnection] The client has reconnected.
+[14:01:09] [127.0.0.1][08431428][ExtensionHostConnection] The client has reconnected.
+[14:04:38] [127.0.0.1][723ca183][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:04:38] [127.0.0.1][08431428][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.
+[14:06:10] [127.0.0.1][6f032171][ManagementConnection] New connection established.
+[14:06:12] [127.0.0.1][bef4f520][ExtensionHostConnection] New connection established.
+[14:06:12] [127.0.0.1][bef4f520][ExtensionHostConnection] <45800> Launched Extension Host Process.
+[16:08:01] [127.0.0.1][e34d9d73][ManagementConnection] New connection established.
+[16:08:04] [127.0.0.1][8d0a1221][ExtensionHostConnection] New connection established.
+[16:08:04] [127.0.0.1][8d0a1221][ExtensionHostConnection] <56669> Launched Extension Host Process.
+[16:13:02] [127.0.0.1][bef4f520][ExtensionHostConnection] <45800> Extension Host Process exited with code: 0, signal: null.
+[17:10:59] [127.0.0.1][e34d9d73][ManagementConnection] The client has reconnected.
+[17:11:13] [127.0.0.1][8d0a1221][ExtensionHostConnection] The client has reconnected.
+[17:33:11] [127.0.0.1][e34d9d73][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:33:11] [127.0.0.1][8d0a1221][ExtensionHostConnection] <56669> Extension Host Process exited with code: 0, signal: null.
+[2024-03-07T06:42:35.264Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-07T06:42:35.266Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-07T06:42:35.307Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-07T06:42:35.308Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-07T06:42:35.308Z] info    - Authentication is disabled
+[2024-03-07T06:42:35.309Z] info    - Not serving HTTPS
+[2024-03-07T06:42:35.309Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:44:36] 
+
+
+
+
+[06:44:36] Extension host agent started.
+[06:44:50] [127.0.0.1][b912fb39][ManagementConnection] New connection established.
+[06:44:55] [127.0.0.1][1e0e7d78][ManagementConnection] New connection established.
+[06:44:58] [127.0.0.1][7950e61f][ExtensionHostConnection] New connection established.
+[06:44:58] [127.0.0.1][7950e61f][ExtensionHostConnection] <130> Launched Extension Host Process.
+[08:22:55] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[08:22:55] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[08:33:19] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[08:33:46] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[09:59:29] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[10:00:30] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[10:00:40] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[10:07:38] [127.0.0.1][cda46856][ManagementConnection] New connection established.
+[10:07:41] [127.0.0.1][795d8b8d][ExtensionHostConnection] New connection established.
+[10:07:41] [127.0.0.1][795d8b8d][ExtensionHostConnection] <21472> Launched Extension Host Process.
+[10:21:48] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[10:22:00] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[10:22:13] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[10:22:48] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[10:22:50] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[10:23:08] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[10:23:16] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[10:52:44] [127.0.0.1][cda46856][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:52:44] [127.0.0.1][795d8b8d][ExtensionHostConnection] <21472> Extension Host Process exited with code: 0, signal: null.
+[11:37:53] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[11:38:20] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[11:38:57] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[11:39:06] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[11:40:00] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[11:45:25] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[11:57:42] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[11:57:44] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[12:03:27] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[12:03:47] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[12:04:46] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[13:18:49] [127.0.0.1][1e0e7d78][ManagementConnection] The client has reconnected.
+[13:18:49] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[13:21:11] [127.0.0.1][7950e61f][ExtensionHostConnection] The client has reconnected.
+[13:21:42] [127.0.0.1][b8254700][ManagementConnection] New connection established.
+[13:21:45] [127.0.0.1][a897ad43][ExtensionHostConnection] New connection established.
+[13:21:45] [127.0.0.1][a897ad43][ExtensionHostConnection] <46696> Launched Extension Host Process.
+[13:44:22] [127.0.0.1][b8254700][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:44:22] [127.0.0.1][a897ad43][ExtensionHostConnection] <46696> Extension Host Process exited with code: 0, signal: null.
+[2024-03-07T13:45:49.932Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-07T13:45:49.933Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-07T13:45:49.956Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-07T13:45:49.956Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-07T13:45:49.956Z] info    - Authentication is disabled
+[2024-03-07T13:45:49.956Z] info    - Not serving HTTPS
+[2024-03-07T13:45:49.957Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[13:46:01] 
+
+
+
+
+[13:46:01] Extension host agent started.
+[13:46:03] [127.0.0.1][8681978c][ManagementConnection] New connection established.
+[13:46:05] [127.0.0.1][0c9bea05][ExtensionHostConnection] New connection established.
+[13:46:05] [127.0.0.1][0c9bea05][ExtensionHostConnection] <132> Launched Extension Host Process.
+[2024-03-08T06:45:37.846Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-08T06:45:37.847Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-08T06:45:37.869Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-08T06:45:37.869Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-08T06:45:37.869Z] info    - Authentication is disabled
+[2024-03-08T06:45:37.869Z] info    - Not serving HTTPS
+[2024-03-08T06:45:37.869Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:45:47] 
+
+
+
+
+[06:45:47] Extension host agent started.
+[06:45:49] [127.0.0.1][bf5f93f5][ManagementConnection] New connection established.
+[06:45:51] [127.0.0.1][8cb8a6d7][ExtensionHostConnection] New connection established.
+[06:45:51] [127.0.0.1][8cb8a6d7][ExtensionHostConnection] <130> Launched Extension Host Process.
+[10:14:16] [127.0.0.1][8cb8a6d7][ExtensionHostConnection] The client has reconnected.
+[10:14:24] [127.0.0.1][bf5f93f5][ManagementConnection] The client has reconnected.
+[10:24:57] [127.0.0.1][8cb8a6d7][ExtensionHostConnection] The client has reconnected.
+[10:54:48] [127.0.0.1][8cb8a6d7][ExtensionHostConnection] The client has reconnected.
+[14:25:17] [127.0.0.1][a8b6bf51][ManagementConnection] New connection established.
+[14:25:19] [127.0.0.1][62d31973][ExtensionHostConnection] New connection established.
+[14:25:19] [127.0.0.1][62d31973][ExtensionHostConnection] <56879> Launched Extension Host Process.
+[14:30:18] [127.0.0.1][8cb8a6d7][ExtensionHostConnection] <130> Extension Host Process exited with code: 0, signal: null.
+[15:05:34] [127.0.0.1][62d31973][ExtensionHostConnection] The client has reconnected.
+[15:05:48] [127.0.0.1][a8b6bf51][ManagementConnection] The client has reconnected.
+[15:56:21] [127.0.0.1][a8b6bf51][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:56:22] [127.0.0.1][62d31973][ExtensionHostConnection] <56879> Extension Host Process exited with code: 0, signal: null.
+[2024-03-09T06:32:00.176Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-09T06:32:00.177Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-09T06:32:00.215Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-09T06:32:00.215Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-09T06:32:00.215Z] info    - Authentication is disabled
+[2024-03-09T06:32:00.215Z] info    - Not serving HTTPS
+[2024-03-09T06:32:00.215Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:33:18] 
+
+
+
+
+[06:33:18] Extension host agent started.
+[06:33:21] [127.0.0.1][fee6f37e][ManagementConnection] New connection established.
+[06:33:23] [127.0.0.1][76dd69c1][ExtensionHostConnection] New connection established.
+[06:33:23] [127.0.0.1][76dd69c1][ExtensionHostConnection] <131> Launched Extension Host Process.
+[06:41:54] [127.0.0.1][fee6f37e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:41:54] [127.0.0.1][76dd69c1][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[06:42:41] [127.0.0.1][0ec5902e][ManagementConnection] New connection established.
+[06:42:45] [127.0.0.1][e7fa4692][ExtensionHostConnection] New connection established.
+[06:42:45] [127.0.0.1][e7fa4692][ExtensionHostConnection] <1493> Launched Extension Host Process.
+[07:03:59] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+[07:04:00] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+[07:18:46] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+[07:18:47] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+[07:55:40] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+[07:55:43] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+[10:20:51] [127.0.0.1][e7fa4692][ExtensionHostConnection] The client has reconnected.
+[10:20:52] [127.0.0.1][0ec5902e][ManagementConnection] The client has reconnected.
+[10:21:06] [127.0.0.1][e7fa4692][ExtensionHostConnection] <1493> Extension Host Process exited with code: 0, signal: null.
+[2024-03-11T06:52:33.853Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-11T06:52:33.854Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-11T06:52:33.880Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-11T06:52:33.880Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-11T06:52:33.880Z] info    - Authentication is disabled
+[2024-03-11T06:52:33.880Z] info    - Not serving HTTPS
+[2024-03-11T06:52:33.881Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[06:52:48] 
+
+
+
+
+[06:52:48] Extension host agent started.
+[06:53:20] [127.0.0.1][e8ac5172][ManagementConnection] New connection established.
+[06:53:22] [127.0.0.1][0cecbde9][ExtensionHostConnection] New connection established.
+[06:53:22] [127.0.0.1][0cecbde9][ExtensionHostConnection] <131> Launched Extension Host Process.
+[08:32:56] [127.0.0.1][e8ac5172][ManagementConnection] The client has reconnected.
+[08:32:57] [127.0.0.1][0cecbde9][ExtensionHostConnection] The client has reconnected.
+[09:03:43] [127.0.0.1][e8ac5172][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:03:43] [127.0.0.1][0cecbde9][ExtensionHostConnection] <131> Extension Host Process exited with code: 0, signal: null.
+[09:03:44] [127.0.0.1][03baf544][ManagementConnection] New connection established.
+[09:03:47] [127.0.0.1][7946853b][ExtensionHostConnection] New connection established.
+[09:03:47] [127.0.0.1][7946853b][ExtensionHostConnection] <8900> Launched Extension Host Process.
+[11:09:48] [127.0.0.1][096c4572][ManagementConnection] New connection established.
+[11:09:54] [127.0.0.1][10aaa5c5][ExtensionHostConnection] New connection established.
+[11:09:54] [127.0.0.1][10aaa5c5][ExtensionHostConnection] <15464> Launched Extension Host Process.
+[11:14:48] [127.0.0.1][7946853b][ExtensionHostConnection] <8900> Extension Host Process exited with code: 0, signal: null.
+[11:44:54] [127.0.0.1][096c4572][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:44:54] [127.0.0.1][10aaa5c5][ExtensionHostConnection] <15464> Extension Host Process exited with code: 0, signal: null.
+[2024-03-12T07:14:50.741Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-12T07:14:50.743Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-12T07:14:50.773Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-12T07:14:50.774Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-12T07:14:50.774Z] info    - Authentication is disabled
+[2024-03-12T07:14:50.775Z] info    - Not serving HTTPS
+[2024-03-12T07:14:50.775Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[07:15:14] 
+
+
+
+
+[07:15:14] Extension host agent started.
+[07:15:16] [127.0.0.1][46bb4d53][ManagementConnection] New connection established.
+[07:15:19] [127.0.0.1][7825d3a1][ExtensionHostConnection] New connection established.
+[07:15:19] [127.0.0.1][7825d3a1][ExtensionHostConnection] <127> Launched Extension Host Process.
+[07:41:29] [127.0.0.1][46bb4d53][ManagementConnection] The client has reconnected.
+[07:41:33] [127.0.0.1][7825d3a1][ExtensionHostConnection] The client has reconnected.
+[07:43:54] [127.0.0.1][46bb4d53][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:43:54] [127.0.0.1][7825d3a1][ExtensionHostConnection] <127> Extension Host Process exited with code: 0, signal: null.
+[2024-03-20T05:30:00.326Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-20T05:30:00.329Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-20T05:30:00.362Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-20T05:30:00.362Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-20T05:30:00.362Z] info    - Authentication is disabled
+[2024-03-20T05:30:00.362Z] info    - Not serving HTTPS
+[2024-03-20T05:30:00.362Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[05:30:08] 
+
+
+
+
+[05:30:08] Extension host agent started.
+[05:30:12] [127.0.0.1][35caed94][ManagementConnection] New connection established.
+[05:30:15] [127.0.0.1][403f21b4][ExtensionHostConnection] New connection established.
+[05:30:15] [127.0.0.1][403f21b4][ExtensionHostConnection] <132> Launched Extension Host Process.
+[05:50:16] [127.0.0.1][adc0d627][ManagementConnection] New connection established.
+[05:50:19] [127.0.0.1][9787e1f3][ExtensionHostConnection] New connection established.
+[05:50:19] [127.0.0.1][9787e1f3][ExtensionHostConnection] <1994> Launched Extension Host Process.
+[05:50:21] [127.0.0.1][9787e1f3][ExtensionHostConnection] <1994> Extension Host Process exited with code: 0, signal: null.
+[05:50:22] [127.0.0.1][adc0d627][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:13:29] [127.0.0.1][35caed94][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:13:29] [127.0.0.1][403f21b4][ExtensionHostConnection] <132> Extension Host Process exited with code: 0, signal: null.
+[2024-03-20T12:11:00.419Z] info  code-server 4.20.0 d0215eca8804d0be5d3551c39404e336032c3141
+[2024-03-20T12:11:00.423Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-03-20T12:11:00.495Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-03-20T12:11:00.495Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-03-20T12:11:00.495Z] info    - Authentication is disabled
+[2024-03-20T12:11:00.495Z] info    - Not serving HTTPS
+[2024-03-20T12:11:00.495Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock

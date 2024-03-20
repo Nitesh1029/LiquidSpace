@@ -1,0 +1,32 @@
+{
+  "lastUpdate": 1709707916305,
+  "blocks": {
+    "*": {
+      "values": {
+        "version": [
+          "3.3.1"
+        ],
+        "pluginName": [
+          "@yarnpkg/plugin-interactive-tools"
+        ],
+        "commandName": [
+          "<none>",
+          "run"
+        ],
+        "workspaceCount": [
+          "6",
+          "7"
+        ],
+        "dependencyCount": [
+          "152",
+          "168"
+        ]
+      },
+      "enumerators": {
+        "projectCount": [
+          "21e71a00da212594da1a05c6e7abaa8b6d3c187d3cad9b2dd6db6c91e4e11d1653e81133ef507c0bb6dbd35d8921ff1203684fe93ce48d172c7be5396de9b7f1"
+        ]
+      }
+    }
+  }
+}

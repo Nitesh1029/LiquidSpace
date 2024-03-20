@@ -1,0 +1,114 @@
+2024-03-12 07:15:23.705 [info] Log level: Info
+2024-03-12 07:15:23.705 [info] Validating found git in: "git"
+2024-03-12 07:15:23.705 [info] Using git "2.37.3" from "git"
+2024-03-12 07:15:23.705 [info] > git rev-parse --show-toplevel [45ms]
+2024-03-12 07:15:23.705 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-03-12 07:15:23.705 [info] Open repository: /home/coder/storewise-webapps
+2024-03-12 07:15:23.705 [info] > git config --get commit.template [22ms]
+2024-03-12 07:15:23.705 [info] > git rev-parse --show-toplevel [34ms]
+2024-03-12 07:15:23.705 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-12 07:15:23.705 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [64ms]
+2024-03-12 07:15:23.705 [info] > git rev-parse --show-toplevel [21ms]
+2024-03-12 07:15:23.705 [info] > git status -z -uall [14ms]
+2024-03-12 07:15:23.705 [info] > git rev-parse --show-toplevel [27ms]
+2024-03-12 07:15:23.705 [info] > git rev-parse --show-toplevel [32ms]
+2024-03-12 07:15:23.705 [info] > git config --get commit.template [4ms]
+2024-03-12 07:15:23.724 [info] > git rev-parse --show-toplevel [20ms]
+2024-03-12 07:15:23.731 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [7ms]
+2024-03-12 07:15:23.742 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-12 07:15:23.781 [info] > git rev-parse --show-toplevel [20ms]
+2024-03-12 07:15:23.797 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-12 07:15:23.814 [info] > git status -z -uall [34ms]
+2024-03-12 07:15:23.819 [info] > git rev-parse --show-toplevel [8ms]
+2024-03-12 07:15:23.832 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-12 07:15:23.846 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-12 07:15:24.484 [info] > git check-ignore -v -z --stdin [5ms]
+2024-03-12 07:15:24.540 [info] > git fetch [1095ms]
+2024-03-12 07:15:24.540 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-03-12 07:15:24.563 [info] > git config --get commit.template [3ms]
+2024-03-12 07:15:24.583 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [1ms]
+2024-03-12 07:15:24.626 [info] > git status -z -uall [6ms]
+2024-03-12 07:15:25.489 [info] > git show --textconv :storewise-internal/components.json [19ms]
+2024-03-12 07:15:25.489 [info] > git ls-files --stage -- /home/coder/storewise-webapps/storewise-internal/components.json [4ms]
+2024-03-12 07:15:25.518 [info] > git cat-file -s ef381e8d53bd94a654e449a6a2dc549dd955ba84 [11ms]
+2024-03-12 07:15:26.465 [info] > git config --get commit.template [2ms]
+2024-03-12 07:15:26.495 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [4ms]
+2024-03-12 07:15:26.583 [info] > git status -z -uall [61ms]
+2024-03-12 07:15:27.878 [info] > git check-ignore -v -z --stdin [2ms]
+2024-03-12 07:15:31.942 [info] > git check-ignore -v -z --stdin [13ms]
+2024-03-12 07:23:03.587 [info] > git fetch [1286ms]
+2024-03-12 07:23:03.587 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-03-12 07:23:03.608 [info] > git config --get commit.template [1ms]
+2024-03-12 07:23:03.635 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [10ms]
+2024-03-12 07:23:03.659 [info] > git status -z -uall [4ms]
+2024-03-12 07:24:21.131 [info] > git config --get commit.template [1ms]
+2024-03-12 07:24:21.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [3ms]
+2024-03-12 07:24:21.169 [info] > git status -z -uall [3ms]
+2024-03-12 07:26:04.364 [info] > git fetch [637ms]
+2024-03-12 07:26:04.365 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-03-12 07:26:04.411 [info] > git config --get commit.template [27ms]
+2024-03-12 07:26:04.411 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [3ms]
+2024-03-12 07:26:04.436 [info] > git status -z -uall [3ms]
+2024-03-12 07:26:05.549 [info] > git config --get commit.template [1ms]
+2024-03-12 07:26:05.569 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [1ms]
+2024-03-12 07:26:05.602 [info] > git status -z -uall [4ms]
+2024-03-12 07:30:57.876 [info] > git fetch [640ms]
+2024-03-12 07:30:57.877 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-03-12 07:30:57.900 [info] > git config --get commit.template [1ms]
+2024-03-12 07:30:57.917 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [1ms]
+2024-03-12 07:30:57.940 [info] > git status -z -uall [0ms]
+2024-03-12 07:30:59.082 [info] > git config --get commit.template [5ms]
+2024-03-12 07:30:59.104 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [2ms]
+2024-03-12 07:30:59.125 [info] > git status -z -uall [1ms]
+2024-03-12 07:35:11.947 [info] > git fetch [1615ms]
+2024-03-12 07:35:11.948 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-03-12 07:35:11.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [2ms]
+2024-03-12 07:35:11.987 [info] > git config --get commit.template [20ms]
+2024-03-12 07:35:12.033 [info] > git status -z -uall [29ms]
+2024-03-12 07:35:13.128 [info] > git config --get commit.template [3ms]
+2024-03-12 07:35:13.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [2ms]
+2024-03-12 07:35:13.170 [info] > git status -z -uall [3ms]
+2024-03-12 07:36:09.120 [info] > git config --get commit.template [4ms]
+2024-03-12 07:36:09.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [2ms]
+2024-03-12 07:36:09.165 [info] > git status -z -uall [7ms]
+2024-03-12 07:36:09.279 [info] > git check-ignore -v -z --stdin [9ms]
+2024-03-12 07:36:23.842 [info] > git config --get commit.template [1ms]
+2024-03-12 07:36:23.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [3ms]
+2024-03-12 07:36:23.880 [info] > git status -z -uall [1ms]
+2024-03-12 07:36:54.697 [info] > git config --get commit.template [1ms]
+2024-03-12 07:36:54.717 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [2ms]
+2024-03-12 07:36:54.735 [info] > git status -z -uall [0ms]
+2024-03-12 07:38:12.790 [info] > git fetch [730ms]
+2024-03-12 07:38:12.790 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-03-12 07:38:12.812 [info] > git config --get commit.template [5ms]
+2024-03-12 07:38:12.828 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [1ms]
+2024-03-12 07:38:12.850 [info] > git status -z -uall [4ms]
+2024-03-12 07:38:14.000 [info] > git config --get commit.template [1ms]
+2024-03-12 07:38:14.017 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [2ms]
+2024-03-12 07:38:14.039 [info] > git status -z -uall [4ms]
+2024-03-12 07:38:46.719 [info] > git check-ignore -v -z --stdin [6ms]
+2024-03-12 07:41:31.514 [info] > git fetch [3399ms]
+2024-03-12 07:41:31.561 [info] /bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+kex_exchange_identification: read: Connection reset by peer
+
+Coder authenticates with  [;mgit[0m  using the public key below. All clones with SSH  
+are authenticated automatically 🪄.                                             
+
+ [;mssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMor7mInWz6+x17CbR5Ef5A+Y1GSTnrN+m9reyYCyRnT[0m 
+
+Add to GitHub and GitLab:
+> https://github.com/settings/ssh/new
+> https://gitlab.com/-/profile/keys
+
+exit status 255                     
+Run 'coder gitssh --help' for usage.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-03-12 07:41:31.676 [info] > git config --get commit.template [48ms]
+2024-03-12 07:41:31.750 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [20ms]
+2024-03-12 07:41:31.856 [info] > git status -z -uall [83ms]
+2024-03-12 07:41:51.352 [info] > git config --get commit.template [63ms]
+2024-03-12 07:41:51.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feat/internal-portal refs/remotes/feat/internal-portal [80ms]
+2024-03-12 07:41:51.455 [info] > git status -z -uall [36ms]

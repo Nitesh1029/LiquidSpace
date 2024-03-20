@@ -1,0 +1,19 @@
+2024-03-07 06:45:00.165 [info] Extension host with pid 130 started
+2024-03-07 06:45:00.198 [info] Lock '/home/coder/.local/share/code-server/User/workspaceStorage/-44ca1d8e/vscode.lock': Lock acquired.
+2024-03-07 06:45:00.473 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2024-03-07 06:45:00.474 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-07 06:45:01.076 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-07 06:45:01.077 [info] ExtensionService#_doActivateExtension EdgardMessias.clipboard-manager, startup: true, activationEvent: '*'
+2024-03-07 06:45:01.077 [info] ExtensionService#_doActivateExtension vsls-contrib.codetour, startup: true, activationEvent: '*'
+2024-03-07 06:45:01.228 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-03-07 06:45:01.563 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-03-07 06:45:01.618 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-07 06:45:01.619 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-07 06:45:04.106 [info] Eager extensions activated
+2024-03-07 06:45:04.107 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-07 06:45:04.108 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-07 06:45:04.108 [info] ExtensionService#_doActivateExtension arcanis.vscode-zipfs, startup: false, activationEvent: 'onStartupFinished'
+2024-03-07 06:45:04.108 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-03-07 06:45:04.109 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-07 06:45:04.109 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2024-03-07 11:05:53.721 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
