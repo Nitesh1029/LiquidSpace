@@ -8,7 +8,7 @@ import Crew from '@/components/Crew';
 
 function page() {
   return (
-    <div className="w-full h-screen text-white">
+    <div className="w-full h-screen text-black">
       <Header />
       <Main />
       <Status />

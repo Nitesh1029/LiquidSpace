@@ -4,42 +4,22 @@ import React, { useEffect,  useState, MutableRefObject, useRef } from 'react';
 function Status () {
 const [isSmall, SetIsSmall] = useState(false);
 const [isSticky, setIsSticky] = useState(false);
-const [currentSection, setCurrentSection] = useState(null);
+const [activeSection, setActiveSection] = useState(null);
 
-useEffect(() => {
-  const sectionIds = ['OurStory', 'OurPledge', 'OurCrew'];
+type SectionRefs = {
+  [key: string]: MutableRefObject<null>;
+}
 
-
-  const observer = new IntersectionObserver(
-    (entries) => {
-        entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-                setCurrentSection(entry.target.id);
-            }
-        });
-    },
-    {
-        threshold: 0.5
-    }
-);
-
-sectionIds.forEach((sectionId) => {
-    const section = document.getElementById(sectionId);
-    if (section) {
-        observer.observe(section);
-    }
-});
-
-// Clean up Observer
-return () => {
-    observer.disconnect();
+const sectionRefs: SectionRefs = {
+  // LiquidSpace: useRef(null),
+  OurStory: useRef(null),
+  OurPledge: useRef(null),
+  OurCrew: useRef(null),
 };
-}, []);
-
 
 useEffect(() => {
   const handleSize = () => {
-    SetIsSmall(window.innerWidth <=960);
+    SetIsSmall(window.innerWidth <= 960);
   };
 
   handleSize();
@@ -50,7 +30,7 @@ useEffect(() => {
 useEffect(() => {
   const handleScroll = () => {
     const offset = window.scrollY;
-    if (offset >700){
+    if (offset > 700){
       setIsSticky(true);
     } else {
       setIsSticky(false);
@@ -61,17 +41,50 @@ useEffect(() => {
   return () => window.removeEventListener('scroll', handleScroll);
 }, []);
 
+useEffect(() => {
+  // console.log("Refs:", sectionRefs);
+  const handleIntersection = (entries: any[]) => {
+    entries.forEach((entry) => {
+      // console.log("Int ele:", entry.target.id, "isInt ele:",entry.isIntersecting);
+      if(entry.isIntersecting) {
+        setActiveSection(entry.target.id);
+      }
+    });
+  };
+
+  const observer = new IntersectionObserver(handleIntersection, {
+    threshold: 0.5,
+
+  });
+
+  Object.values(sectionRefs).forEach((ref) => {
+    if(ref.current) {
+      // console.log("Observing", ref.current);
+      observer.observe(ref.current);
+    }
+  });
+
+  return () => observer.disconnect();
+}, [sectionRefs]);
+
 return (
   <>
-    {!isSmall && ( <div className={`w-full p-10 ${isSticky ? 'fixed top-16 left-0 bg-white' : ''}`}>
-      <div className='Titles text-xl flex justify-center text-center gap-10'>
-        {["LiquidSpace","Our Story", "Our Pledge", "Our Crew"].map((item, index) => (
-          <a key={index} className={`text-lg font-semibold ${currentSection === item ? 'text-cyan-500' : ''}`} href={`#${item}`} id={item}>{item}</a>
-        ))}
+    {!isSmall && ( 
+      <div className={`w-full p-10 ${isSticky ? 'fixed top-16 left-0 bg-white' : ''}`}>
+        <div className='Titles text-xl flex justify-center text-center gap-10'>
+          {["LiquidSpace","OurStory", "OurPledge", "OurCrew"].map((item, index) => (
+            <a key={index} className={`text-lg font-semibold ${activeSection === item ? 'text-cyan-500 ' : ''}`} 
+              href={`#${item}`} 
+              ref={sectionRefs[item]} 
+              id={item}
+            >
+              {item}
+            </a>
+          ))}
+        </div>
       </div>
-    </div>
     )}
-    {!isSmall && <div className={`liner border-t-[2.5px] border-cyan-300 w-full ${isSticky ? 'fixed' : ''}`}></div>}
+    {!isSmall && <div className={`liner border-t-[2.5px] border-cyan-300 w-full ${isSticky ? 'fixed top-16 left-0' : ''}`}></div>}
   </>
 );
 }

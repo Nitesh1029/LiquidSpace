@@ -77,7 +77,7 @@ function ImageCard() {
     };
   return (
     <div className="w-3/4 p-5 mx-auto">
-        <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 justify-center gap-y-5">
+        <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 justify-center gap-y-5 gap-x-5">
             {images.slice(0, displayCount).map((image, index) => (
                 <div key={index} className="flex flex-col">
                     <div className="p-0.4 bg-green-100 rounded-md overflow-hidden sm:h-48 sm:w-48 lg:h-52 lg:w-52">
@@ -93,7 +93,7 @@ function ImageCard() {
         </div>
         {displayCount < images.length && (
             <div className="flex justify-center mt-5">
-            <button className="flex items-center hover:text-zinc-700 text-2xl text-white font-bold py-3 px-6 leading-normal " onClick={loadMoreImages}>
+            <button className="flex items-center hover:text-zinc-700 text-2xl text-black font-bold py-3 px-6 leading-normal " onClick={loadMoreImages}>
                 Load more <MdArrowRightAlt className="ml-2" />
             </button>
         </div>
